@@ -9,5 +9,5 @@ de los discos, se me ocultara el diseño de esta y me colocara el diseño de la 
 había planeado en un archivo .html aparte
 
 #Tuve el problema del "Intercambio de Recursos de Origen Cruzado", lo que encontré para poder resolver
- esto fue instalar la extensión "Allow-Control-Allow-Origin" google chrome, que según entiendo anula 
+ esto fue instalar la extensión "Allow-Control-Allow-Origin" de google chrome, que según entiendo anula 
 la protección del navegador

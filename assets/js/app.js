@@ -3,13 +3,13 @@
     //---------------------------Reading albums-------------------------------------- 
    $.ajax({
         type: 'GET',
-        url: 'http://localhost:8080/api/v1/albums/',
-        dataType: 'json'
+        url: 'http://localhost:8080/api/v1/albums/', 
+        dataType: 'json'                                                       //http://www.json-generator.com/api/json/get/cgDslKveKW?indent=2     
     })
     .done(function (data){
        
          $.each(data.items, function(index){
-            
+             
             var nom = data.items[index].name;
             var art = data.items[index].artist;
             var pic = data.items[index].thumbnail;
@@ -48,8 +48,8 @@
                                     
             $.ajax({
              type: 'GET',
-             url: 'http://localhost:8080/api/v1/albums/'+ide+'/',
-             dataType: 'json'
+             url: 'http://localhost:8080/api/v1/albums/'+ide+'/', 
+             dataType: 'json'                                           
             })
             
             .done(function(data1){
