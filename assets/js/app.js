@@ -4,7 +4,7 @@
    $.ajax({
         type: 'GET',
         url: 'http://localhost:8080/api/v1/albums/', 
-        dataType: 'json'                                                       //http://www.json-generator.com/api/json/get/cgDslKveKW?indent=2     
+        dataType: 'json'                                                         
     })
     .done(function (data){
        
