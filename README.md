@@ -1,6 +1,6 @@
 ﻿#Para el problema dado utilzé la librería jQuery
  
-#En el maquetación del index.html, para generar el diseño responsive implementé bootstrap y flexbox
+#En el maquetación del index.html, para generar el diseño responsive implementé bootstrap, flexbox
  y medias queries
 
 #jQuery no me permitió generar dos vistas en un solo index; para solventar ese problema 
