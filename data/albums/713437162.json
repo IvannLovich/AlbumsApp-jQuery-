@@ -1,0 +1,99 @@
+{
+    "genres": [
+        "Soundtrack"
+    ], 
+    "name": "Rock Star (Music from the Motion Picture) [feat. Rock Star]", 
+    "artist": {
+        "id": 4035426, 
+        "name": "Various Artists"
+    }, 
+    "release_date": "2010-07-09T07:00:00Z", 
+    "thumbnail": "http://is5.mzstatic.com/image/thumb/Music4/v4/b0/4a/72/b04a72a6-9f28-39a0-1bb3-1effcab7e1c9/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "03:30", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/44/ed/8f/44ed8f71-fde0-401e-ed57-c448314f4f37/mzaf_7454053373042422704.plus.aac.p.m4a", 
+            "name": "Rock Star", 
+            "number": 1
+        }, 
+        {
+            "duration": "03:14", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/b3/5b/df/b35bdfe5-aced-d784-6754-1a83b9434b54/mzaf_9068835151673897586.plus.aac.p.m4a", 
+            "name": "Livin' the Life", 
+            "number": 2
+        }, 
+        {
+            "duration": "04:34", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/58/60/b5/5860b59c-3d84-5085-09cd-688aaab609b0/mzaf_5110076570689979196.plus.aac.p.m4a", 
+            "name": "Wild Side", 
+            "number": 3
+        }, 
+        {
+            "duration": "04:01", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/b2/7b/92/b27b9279-aa55-9e02-0b6b-21d1099a6fac/mzaf_6552412422595935412.plus.aac.p.m4a", 
+            "name": "We All Die Young", 
+            "number": 4
+        }, 
+        {
+            "duration": "03:59", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/77/fb/ec/77fbecfc-9847-1f56-3c9d-7aab12772c03/mzaf_5815567096831793297.plus.aac.p.m4a", 
+            "name": "Blood Pollution", 
+            "number": 5
+        }, 
+        {
+            "duration": "04:08", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/1d/de/cf/1ddecf61-74f5-4a98-289e-d67fa3c3d61c/mzaf_257127067682920163.plus.aac.p.m4a", 
+            "name": "Livin' On a Prayer", 
+            "number": 6
+        }, 
+        {
+            "duration": "04:18", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/9c/72/2a/9c722aca-d3c0-cd4a-80a4-da2da530e5a2/mzaf_4725448928042715767.plus.aac.p.m4a", 
+            "name": "Stand Up", 
+            "number": 7
+        }, 
+        {
+            "duration": "08:23", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/9e/ec/f1/9eecf134-1284-715d-b222-f1233ee61ce6/mzaf_423879171914692583.plus.aac.p.m4a", 
+            "name": "Stranglehold", 
+            "number": 8
+        }, 
+        {
+            "duration": "02:54", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/de/95/0a/de950a90-c335-ea5b-a8be-982f97a0bf9f/mzaf_289398353547094187.plus.aac.p.m4a", 
+            "name": "Wasted Generation", 
+            "number": 9
+        }, 
+        {
+            "duration": "03:56", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/7c/e6/2e/7ce62e50-2fda-d021-cccf-170635c97b41/mzaf_319663300976199991.plus.aac.p.m4a", 
+            "name": "Lick It Up", 
+            "number": 10
+        }, 
+        {
+            "duration": "03:27", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview19/v4/cc/40/a8/cc40a8f2-0c9c-2190-d128-61de3bf71586/mzaf_5091612414707272332.plus.aac.p.m4a", 
+            "name": "Long Live Rock and Roll", 
+            "number": 11
+        }, 
+        {
+            "duration": "05:13", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/fe/52/de/fe52ded2-84a5-ef4a-78f5-645888820421/mzaf_6434091914170224288.plus.aac.p.m4a", 
+            "name": "Devil Inside", 
+            "number": 12
+        }, 
+        {
+            "duration": "04:25", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/b0/64/1c/b0641cb2-c23b-bb9d-26e5-fa9bd3880e99/mzaf_7320660502753466462.plus.aac.p.m4a", 
+            "name": "Colorful (Rock Star Version)", 
+            "number": 13
+        }, 
+        {
+            "duration": "02:57", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/04/d2/af/04d2af48-c001-4533-5e8c-26a8295f2328/mzaf_7853936938513860871.plus.aac.p.m4a", 
+            "name": "Gotta Have It (Music from 'Rock Star')", 
+            "number": 14
+        }
+    ], 
+    "id": 713437162
+}

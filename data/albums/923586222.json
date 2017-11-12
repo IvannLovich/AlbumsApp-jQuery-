@@ -1,0 +1,81 @@
+{
+    "genres": [
+        "Rock"
+    ], 
+    "name": "Rock or Bust", 
+    "artist": {
+        "id": 5040714, 
+        "name": "AC/DC"
+    }, 
+    "release_date": "2014-11-28T08:00:00Z", 
+    "thumbnail": "http://is3.mzstatic.com/image/thumb/Music3/v4/ae/9c/4a/ae9c4afd-a533-c4fe-62bc-3c487486566a/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "03:03", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music5/v4/00/13/bf/0013bf28-5ea4-eeac-5d25-4c8cd7901fb6/mzaf_97720778861486333.plus.aac.p.m4a", 
+            "name": "Rock or Bust", 
+            "number": 1
+        }, 
+        {
+            "duration": "02:47", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music3/v4/41/b8/c5/41b8c5c2-cb36-bfc7-7fd2-e06bbb549177/mzaf_4536569117212941747.plus.aac.p.m4a", 
+            "name": "Play Ball", 
+            "number": 2
+        }, 
+        {
+            "duration": "03:24", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music3/v4/f3/74/0c/f3740cc7-3f7e-f0e5-7f7f-44080c5aafd6/mzaf_6027356616003351982.plus.aac.p.m4a", 
+            "name": "Rock the Blues Away", 
+            "number": 3
+        }, 
+        {
+            "duration": "02:57", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music1/v4/e3/40/02/e3400269-1a62-8c10-aaa1-c5423ee1ceb5/mzaf_7119956867225947374.plus.aac.p.m4a", 
+            "name": "Miss Adventure", 
+            "number": 4
+        }, 
+        {
+            "duration": "03:35", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music3/v4/e3/20/25/e32025fa-0119-f209-8924-fc82be496521/mzaf_6389266946019855392.plus.aac.p.m4a", 
+            "name": "Dogs of War", 
+            "number": 5
+        }, 
+        {
+            "duration": "03:22", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music3/v4/45/11/55/451155f2-4f6a-e679-fec2-09db370ec7cb/mzaf_3401544964661517441.plus.aac.p.m4a", 
+            "name": "Got Some Rock & Roll Thunder", 
+            "number": 6
+        }, 
+        {
+            "duration": "02:44", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music3/v4/5c/c1/7b/5cc17b1e-8deb-f49e-1b75-14efb90b252d/mzaf_7094679794564475327.plus.aac.p.m4a", 
+            "name": "Hard Times", 
+            "number": 7
+        }, 
+        {
+            "duration": "03:30", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music5/v4/09/9c/ec/099cec69-dc43-490e-e02b-e0d2d2a09c2e/mzaf_3427628196735549037.plus.aac.p.m4a", 
+            "name": "Baptism By Fire", 
+            "number": 8
+        }, 
+        {
+            "duration": "02:42", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music5/v4/1b/68/7a/1b687ae1-5c30-cdb2-08f2-819cb472e1ab/mzaf_1047942974265643476.plus.aac.p.m4a", 
+            "name": "Rock the House", 
+            "number": 9
+        }, 
+        {
+            "duration": "03:09", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music3/v4/bd/2c/63/bd2c63fb-beb7-d4d9-90dd-e16b281b8dfa/mzaf_2103227623176899079.plus.aac.p.m4a", 
+            "name": "Sweet Candy", 
+            "number": 10
+        }, 
+        {
+            "duration": "03:41", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music1/v4/08/4d/4c/084d4c1a-3e1f-dc41-2c93-6814ff9f8ebf/mzaf_2480955919689146818.plus.aac.p.m4a", 
+            "name": "Emission Control", 
+            "number": 11
+        }
+    ], 
+    "id": 923586222
+}

@@ -1,0 +1,99 @@
+{
+    "genres": [
+        "Rock"
+    ], 
+    "name": "Devil Without a Cause", 
+    "artist": {
+        "id": 252399, 
+        "name": "Kid Rock"
+    }, 
+    "release_date": "1998-08-05T07:00:00Z", 
+    "thumbnail": "http://is2.mzstatic.com/image/thumb/Music2/v4/d6/5f/7b/d65f7b41-49da-cbb5-55de-ca41eb2fbc4f/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "04:27", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/63/d0/b8/63d0b879-60c3-def7-28ed-1b33dfa7bb8f/mzaf_7846905717573361738.plus.aac.p.m4a", 
+            "name": "Bawitdaba", 
+            "number": 1
+        }, 
+        {
+            "duration": "04:17", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/22/48/0b/22480b9e-a16f-ac90-be6a-c76d0443baa4/mzaf_3050617823231707302.plus.aac.p.m4a", 
+            "name": "Cowboy", 
+            "number": 2
+        }, 
+        {
+            "duration": "05:32", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/fd/d8/4d/fdd84d3d-63f9-0436-90ed-33f62a457b2b/mzaf_2652063863372874491.plus.aac.p.m4a", 
+            "name": "Devil Without a Cause", 
+            "number": 3
+        }, 
+        {
+            "duration": "04:50", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/6c/3d/79/6c3d79b4-862a-cbdb-36dc-12254046c975/mzaf_3363889130478860993.plus.aac.p.m4a", 
+            "name": "I Am the Bullgod", 
+            "number": 4
+        }, 
+        {
+            "duration": "04:23", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/e6/51/35/e6513580-7809-ac80-30a4-732aeb0f5af3/mzaf_1039409541113218109.plus.aac.p.m4a", 
+            "name": "Roving Gangster (Rollin')", 
+            "number": 5
+        }, 
+        {
+            "duration": "04:02", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/90/6f/1b/906f1bcf-63e0-bf03-dc8c-9b1e237a747d/mzaf_8268689152167415918.plus.aac.p.m4a", 
+            "name": "Wasting Time", 
+            "number": 6
+        }, 
+        {
+            "duration": "05:14", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/29/a7/b2/29a7b243-0f60-b775-6a5d-b4a4fdacfc93/mzaf_7504632474710686913.plus.aac.p.m4a", 
+            "name": "Welcome 2 the Party (Ode 2 the Old School)", 
+            "number": 7
+        }, 
+        {
+            "duration": "03:43", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/4d/fe/a7/4dfea7a5-cb2b-ea51-3fc3-12e4576e3662/mzaf_5062910165858267083.plus.aac.p.m4a", 
+            "name": "I Got One for Ya", 
+            "number": 8
+        }, 
+        {
+            "duration": "03:08", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/f5/ab/26/f5ab268d-578a-d47c-7a82-1d8ae4aa5b4a/mzaf_4071805527638865079.plus.aac.p.m4a", 
+            "name": "Somebody's Gotta Feel This", 
+            "number": 9
+        }, 
+        {
+            "duration": "03:23", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/c9/39/72/c9397250-18a8-c723-7cb4-b72c0f930c7f/mzaf_2242892643257875656.plus.aac.p.m4a", 
+            "name": "Fist of Rage", 
+            "number": 10
+        }, 
+        {
+            "duration": "05:27", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/48/20/ad/4820ad93-941d-d3fc-6199-6c83864a104f/mzaf_8514343430837155747.plus.aac.p.m4a", 
+            "name": "Only God Knows Why", 
+            "number": 11
+        }, 
+        {
+            "duration": "06:13", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/6b/9d/59/6b9d598a-7e6d-a55e-b664-11cc8077e872/mzaf_1278449947330759775.plus.aac.p.m4a", 
+            "name": "F*ck Off", 
+            "number": 12
+        }, 
+        {
+            "duration": "04:24", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/0d/66/16/0d66164a-7767-2707-ead0-bcf24e2ea68d/mzaf_6479093083112959885.plus.aac.p.m4a", 
+            "name": "Where U At Rock", 
+            "number": 13
+        }, 
+        {
+            "duration": "12:00", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/4f/99/7e/4f997e35-9344-2d5f-863c-66fb83af84b9/mzaf_1936508466986272410.plus.aac.p.m4a", 
+            "name": "Black Chick, White Guy", 
+            "number": 14
+        }
+    ], 
+    "id": 586705426
+}

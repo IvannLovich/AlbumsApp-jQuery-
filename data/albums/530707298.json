@@ -1,0 +1,33 @@
+{
+    "genres": [
+        "Rock"
+    ], 
+    "name": "Pour Some Sugar On Me / Rock of Ages 2012 (Re-Recorded Versions) - Single", 
+    "artist": {
+        "id": 117554, 
+        "name": "Def Leppard"
+    }, 
+    "release_date": "2012-06-04T07:00:00Z", 
+    "thumbnail": "http://is5.mzstatic.com/image/thumb/Music/v4/88/ac/6d/88ac6da1-4b2a-8ef5-dbbd-9872d69cc3b2/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "04:23", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/99/11/7f/mzi.ieivnhvm.aac.p.m4a", 
+            "name": "Pour Some Sugar On Me (2012 Re-Recorded Version)", 
+            "number": 1
+        }, 
+        {
+            "duration": "04:08", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/3a/dd/90/mzi.bfytgprc.aac.p.m4a", 
+            "name": "Rock of Ages (2012 Re-Recorded Version)", 
+            "number": 2
+        }, 
+        {
+            "duration": "04:51", 
+            "preview": "http://video.itunes.apple.com/apple-assets-us-std-000001/Video/21/26/c7/mzi.mkjzrtiw..640x480.h264lc.u.p.m4v", 
+            "name": "Pour Some Sugar On Me", 
+            "number": 3
+        }
+    ], 
+    "id": 530707298
+}

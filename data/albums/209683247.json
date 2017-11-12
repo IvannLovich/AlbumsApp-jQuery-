@@ -1,0 +1,105 @@
+{
+    "genres": [
+        "Rock"
+    ], 
+    "name": "I Love Rock 'N Roll (Remastered)", 
+    "artist": {
+        "id": 916203, 
+        "name": "Joan Jett & The Blackhearts"
+    }, 
+    "release_date": "1981-11-02T08:00:00Z", 
+    "thumbnail": "http://is5.mzstatic.com/image/thumb/Music/v4/40/7f/ba/407fba72-5a93-8694-e103-367b4e2ed17e/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "02:55", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/63/1f/82/631f8250-82d6-df8c-dcc1-f0ebd07352bc/mzaf_4830501481736678896.plus.aac.p.m4a", 
+            "name": "I Love Rock 'N Roll", 
+            "number": 1
+        }, 
+        {
+            "duration": "02:28", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/72/b2/00/72b20069-0f83-b62f-31e2-45c10730b204/mzaf_5566755959099777005.plus.aac.p.m4a", 
+            "name": "(Im Gonna) Run Away", 
+            "number": 2
+        }, 
+        {
+            "duration": "03:07", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/2a/49/5f/2a495fa4-5691-d1bf-464d-80025c15e638/mzaf_7405916574380168832.plus.aac.p.m4a", 
+            "name": "Love Is Pain", 
+            "number": 3
+        }, 
+        {
+            "duration": "02:46", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/b2/5d/c3/b25dc3b2-ac76-7017-f054-dbdfa0dc12bd/mzaf_7068305479326903685.plus.aac.p.m4a", 
+            "name": "Nag", 
+            "number": 4
+        }, 
+        {
+            "duration": "03:17", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/dc/eb/4c/dceb4c06-4126-1421-93d9-42a5f6443336/mzaf_2041640123250043306.plus.aac.p.m4a", 
+            "name": "Crimson and Clover", 
+            "number": 5
+        }, 
+        {
+            "duration": "02:54", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/18/2d/42/182d42ad-22aa-c250-17fe-1a459d190795/mzaf_8218001360527577275.plus.aac.p.m4a", 
+            "name": "Victim of Circumstance", 
+            "number": 6
+        }, 
+        {
+            "duration": "02:09", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/db/50/80/db508096-ff9a-286c-9e37-df6946c1052b/mzaf_162071963435307534.plus.aac.p.m4a", 
+            "name": "Bits and Pieces", 
+            "number": 7
+        }, 
+        {
+            "duration": "02:41", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/60/b1/e4/60b1e428-deb1-639d-e4a9-cfd4fb3d0e12/mzaf_6707998931653910933.plus.aac.p.m4a", 
+            "name": "Be Straight", 
+            "number": 8
+        }, 
+        {
+            "duration": "03:35", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/41/35/42/4135426c-586f-2d5e-7b34-27cf607bf639/mzaf_5390835003014126551.plus.aac.p.m4a", 
+            "name": "You're Too Possessive", 
+            "number": 9
+        }, 
+        {
+            "duration": "04:17", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/5d/06/82/5d0682e0-043f-cecd-1251-80a412c34dad/mzaf_8728448475766951619.plus.aac.p.m4a", 
+            "name": "Little Drummer Boy", 
+            "number": 10
+        }, 
+        {
+            "duration": "02:45", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/4d/b2/c4/4db2c453-3f53-b711-c247-3b852332f287/mzaf_237168089535908683.plus.aac.p.m4a", 
+            "name": "Oh Woe Is Me", 
+            "number": 11
+        }, 
+        {
+            "duration": "02:57", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/e5/88/90/e58890fa-133c-ef52-fed8-171257705b49/mzaf_8056087185711385057.plus.aac.p.m4a", 
+            "name": "Louie Louie", 
+            "number": 12
+        }, 
+        {
+            "duration": "02:46", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/f8/63/d3/f863d331-fa0b-0609-58ac-22255c6233b1/mzaf_108069063688537011.plus.aac.p.m4a", 
+            "name": "You Don't Know What You've Got (Live)", 
+            "number": 13
+        }, 
+        {
+            "duration": "02:17", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/36/39/4d/36394db1-bff7-759b-6d8c-9278989dd1f3/mzaf_1459288433583527319.plus.aac.p.m4a", 
+            "name": "Summertime Blues", 
+            "number": 14
+        }, 
+        {
+            "duration": "02:51", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/c4/4b/9c/c44b9c0c-76f3-ffc6-e7c2-ecb9c63daeed/mzaf_6526578451239410543.plus.aac.p.m4a", 
+            "name": "Nag (With The Coasters)", 
+            "number": 15
+        }
+    ], 
+    "id": 209683247
+}

@@ -1,0 +1,99 @@
+{
+    "genres": [
+        "Hip-Hop/Rap"
+    ], 
+    "name": "GTTM: Goin Thru the Motions", 
+    "artist": {
+        "id": 943088005, 
+        "name": "PnB Rock"
+    }, 
+    "release_date": "2017-01-13T08:00:00Z", 
+    "thumbnail": "http://is5.mzstatic.com/image/thumb/Music71/v4/9d/a5/23/9da523b2-3b80-6cef-ecff-a44df99f628a/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "03:55", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview111/v4/55/fb/d8/55fbd893-c70b-e6f2-5572-744b4027982f/mzaf_4026450078625381091.plus.aac.p.m4a", 
+            "name": "Attention (feat. Wiz Khalifa)", 
+            "number": 1
+        }, 
+        {
+            "duration": "03:46", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview122/v4/65/80/d2/6580d2ea-a6d2-da2f-eac4-9fbd6cb6e39c/mzaf_6546665897511332702.plus.aac.p.m4a", 
+            "name": "There She Go (feat. YFN Lucci)", 
+            "number": 2
+        }, 
+        {
+            "duration": "03:12", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/29/51/34/2951347c-4523-6b6d-fd51-727cb4490d91/mzaf_7147744655395461962.plus.aac.p.m4a", 
+            "name": "Playa No More (feat. A Boogie wit da Hoodie & Quavo)", 
+            "number": 3
+        }, 
+        {
+            "duration": "04:05", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/10/69/c5/1069c563-c32b-6bc0-cab7-fca90bb02e9b/mzaf_6618237408155120763.plus.aac.p.m4a", 
+            "name": "Selfish", 
+            "number": 4
+        }, 
+        {
+            "duration": "03:10", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview111/v4/bd/f2/dd/bdf2dd3b-9549-5e7f-c13c-8f8ec3b2bbec/mzaf_3784836300712425716.plus.aac.p.m4a", 
+            "name": "Plans", 
+            "number": 5
+        }, 
+        {
+            "duration": "02:59", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview122/v4/41/90/4f/41904f88-e576-435b-e0c0-42de2d588456/mzaf_614891460525304603.plus.aac.p.m4a", 
+            "name": "Range Rover", 
+            "number": 6
+        }, 
+        {
+            "duration": "03:29", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview111/v4/0e/24/71/0e247124-31e6-6576-4395-0b361155fc7e/mzaf_3999557488107344496.plus.aac.p.m4a", 
+            "name": "Notice Me", 
+            "number": 7
+        }, 
+        {
+            "duration": "03:30", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview122/v4/1e/40/83/1e40833e-4a91-ec37-8723-0f74cee371fd/mzaf_4639203696090757691.plus.aac.p.m4a", 
+            "name": "Hanging Up My Jersey (feat. Ty Dolla $ign)", 
+            "number": 8
+        }, 
+        {
+            "duration": "04:26", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview111/v4/56/a7/e3/56a7e3a9-5732-733d-89df-c5e4abc8e48f/mzaf_4950886649530248443.plus.aac.p.m4a", 
+            "name": "Smile", 
+            "number": 9
+        }, 
+        {
+            "duration": "04:08", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview111/v4/7f/01/30/7f0130d3-46cd-2a0a-a1bf-ba5841856d72/mzaf_3164239230693329895.plus.aac.p.m4a", 
+            "name": "Misunderstood", 
+            "number": 10
+        }, 
+        {
+            "duration": "04:36", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview111/v4/81/3c/6a/813c6ac8-83db-c4fe-5ae3-652a2193c7b5/mzaf_8120643385120119636.plus.aac.p.m4a", 
+            "name": "Heart Racin'", 
+            "number": 11
+        }, 
+        {
+            "duration": "03:25", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview111/v4/24/32/c0/2432c042-4bab-9576-7707-154f9601cb93/mzaf_8760428203103418148.plus.aac.p.m4a", 
+            "name": "Questions", 
+            "number": 12
+        }, 
+        {
+            "duration": "03:09", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview122/v4/d0/fe/2b/d0fe2b25-48fd-da51-cee1-0c75f14dafd7/mzaf_6669131643632449568.plus.aac.p.m4a", 
+            "name": "New Day", 
+            "number": 13
+        }, 
+        {
+            "duration": "03:27", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview111/v4/df/fe/39/dffe394c-3c0a-cca2-2ed2-ebc767528d66/mzaf_6287084841349145698.plus.aac.p.m4a", 
+            "name": "Stand Back (feat. A Boogie wit da Hoodie)", 
+            "number": 14
+        }
+    ], 
+    "id": 1181689628
+}

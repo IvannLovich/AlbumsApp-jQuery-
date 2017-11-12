@@ -1,0 +1,135 @@
+{
+    "genres": [
+        "Rock"
+    ], 
+    "name": "20 #1's: Classic Rock, Vol. 2", 
+    "artist": {
+        "id": 36270, 
+        "name": "Various Artists"
+    }, 
+    "release_date": "2017-03-10T08:00:00Z", 
+    "thumbnail": "http://is5.mzstatic.com/image/thumb/Music111/v4/88/19/44/881944a7-941b-636e-17ca-04982875c389/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "04:13", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview111/v4/6a/c8/1f/6ac81f65-141d-7bf9-991a-8b1b86f02bb5/mzaf_3728588859486574446.plus.aac.p.m4a", 
+            "name": "Renegade", 
+            "number": 1
+        }, 
+        {
+            "duration": "03:26", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview122/v4/be/4d/13/be4d13b8-3adf-c160-6367-468a4098881c/mzaf_24464073987793643.plus.aac.p.m4a", 
+            "name": "We're an American Band", 
+            "number": 2
+        }, 
+        {
+            "duration": "04:49", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview122/v4/b7/4f/be/b74fbe95-beb8-c39a-e7d2-60ebbe1b7735/mzaf_2324533808813885965.plus.aac.p.m4a", 
+            "name": "Takin' Care of Business", 
+            "number": 3
+        }, 
+        {
+            "duration": "05:27", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview111/v4/9d/7b/bc/9d7bbc38-bdc0-46d6-d643-076c0bc4f80a/mzaf_6976284834414854473.plus.aac.p.m4a", 
+            "name": "Magic Man", 
+            "number": 4
+        }, 
+        {
+            "duration": "02:47", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview122/v4/2f/1b/87/2f1b8731-9979-e10e-e85a-a5ca07276c21/mzaf_3514382727488810333.plus.aac.p.m4a", 
+            "name": "Shout It Out Loud", 
+            "number": 5
+        }, 
+        {
+            "duration": "04:19", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview82/v4/a8/e4/64/a8e4649a-8cf9-1f44-2f73-e0c7665268ee/mzaf_3951838060170549921.plus.aac.p.m4a", 
+            "name": "You Wear It Well", 
+            "number": 6
+        }, 
+        {
+            "duration": "04:52", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview122/v4/49/b9/48/49b948ba-1a76-18a3-f02d-9e9d357bfbc3/mzaf_3081138660109178427.plus.aac.p.m4a", 
+            "name": "Saturday Night's Alright (For Fighting)", 
+            "number": 7
+        }, 
+        {
+            "duration": "05:07", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview122/v4/0d/0d/84/0d0d84d6-9cef-0b53-7b48-266357dfca06/mzaf_5987632107652650249.plus.aac.p.m4a", 
+            "name": "Rocky Mountain Way", 
+            "number": 8
+        }, 
+        {
+            "duration": "05:34", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview111/v4/e2/84/34/e2843482-0180-4fdf-106f-b4b4e9e2ebfc/mzaf_8806589185416917105.plus.aac.p.m4a", 
+            "name": "All Right Now", 
+            "number": 9
+        }, 
+        {
+            "duration": "04:27", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview122/v4/05/7b/cf/057bcfae-fb6c-bde2-4994-7c1b1d324223/mzaf_7288068513810797733.plus.aac.p.m4a", 
+            "name": "The Boys Are Back in Town", 
+            "number": 10
+        }, 
+        {
+            "duration": "03:36", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview111/v4/f5/0e/ea/f50eea39-8237-7397-5d04-0f7bc39c0179/mzaf_671313308120195059.plus.aac.p.m4a", 
+            "name": "I Just Want to Celebrate", 
+            "number": 11
+        }, 
+        {
+            "duration": "04:26", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview111/v4/3e/f1/ab/3ef1ab8e-7e85-4faf-6127-5582326303c1/mzaf_996437885902440210.plus.aac.p.m4a", 
+            "name": "Magic Carpet Ride", 
+            "number": 12
+        }, 
+        {
+            "duration": "03:27", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview111/v4/4d/69/20/4d6920e9-6731-23b7-288a-4647de4d2e00/mzaf_1638722640187815304.plus.aac.p.m4a", 
+            "name": "Heartbreaker", 
+            "number": 13
+        }, 
+        {
+            "duration": "03:31", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview122/v4/34/2b/bb/342bbbc7-a3c6-750e-a6bd-1dd1840faa5d/mzaf_8798137558185117474.plus.aac.p.m4a", 
+            "name": "What's Your Name", 
+            "number": 14
+        }, 
+        {
+            "duration": "03:38", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview111/v4/f6/7e/52/f67e529f-c60b-9303-eefc-bde6aedd4686/mzaf_5997529355481825765.plus.aac.p.m4a", 
+            "name": "Green-Eyed Lady", 
+            "number": 15
+        }, 
+        {
+            "duration": "03:10", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview111/v4/6a/46/3f/6a463ff9-1ea7-c84f-e1e0-de0740b39679/mzaf_1603666250246401761.plus.aac.p.m4a", 
+            "name": "Bad Case of Loving You (Doctor, Doctor)", 
+            "number": 16
+        }, 
+        {
+            "duration": "03:23", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview122/v4/11/15/35/111535ab-a73d-2a37-ef43-328e6b13585e/mzaf_6647135430085797387.plus.aac.p.m4a", 
+            "name": "Stuck in the Middle with You", 
+            "number": 17
+        }, 
+        {
+            "duration": "03:55", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview111/v4/a1/d7/19/a1d71974-4e0b-5b92-29b7-f67a70796cd2/mzaf_4018432913680248745.plus.aac.p.m4a", 
+            "name": "Lonesome Loser", 
+            "number": 18
+        }, 
+        {
+            "duration": "03:00", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview122/v4/fb/f0/49/fbf04941-690c-aa81-fa4e-fe88421771d7/mzaf_9217633142668311406.plus.aac.p.m4a", 
+            "name": "Midnight Rider", 
+            "number": 19
+        }, 
+        {
+            "duration": "04:20", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview122/v4/cf/7b/93/cf7b936c-d294-33c6-5a88-a41d77ebb765/mzaf_6849380129337784828.plus.aac.p.m4a", 
+            "name": "So Into You", 
+            "number": 20
+        }
+    ], 
+    "id": 1216806659
+}

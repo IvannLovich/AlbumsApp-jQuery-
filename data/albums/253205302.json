@@ -1,0 +1,81 @@
+{
+    "genres": [
+        "Country"
+    ], 
+    "name": "Three Chord Country and American Rock & Roll", 
+    "artist": {
+        "id": 15189114, 
+        "name": "Keith Anderson"
+    }, 
+    "release_date": "2001-01-01T08:00:00Z", 
+    "thumbnail": "http://is2.mzstatic.com/image/thumb/Music/v4/ff/b1/e4/ffb1e449-40a8-fafe-ddd1-f9e2e207a523/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "04:13", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/67/71/99/mzm.nqajxvfa.aac.p.m4a", 
+            "name": "Three Chord Country and American Rock & Roll", 
+            "number": 1
+        }, 
+        {
+            "duration": "03:59", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/27/96/0e/mzm.vzjzkuvd.aac.p.m4a", 
+            "name": "Podunk", 
+            "number": 2
+        }, 
+        {
+            "duration": "03:49", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/ab/a8/b3/mzm.fuvlsdrn.aac.p.m4a", 
+            "name": "Wrap Around", 
+            "number": 3
+        }, 
+        {
+            "duration": "03:43", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/8b/7a/da/mzm.gmwgmeji.aac.p.m4a", 
+            "name": "Xxl", 
+            "number": 4
+        }, 
+        {
+            "duration": "03:05", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/39/24/53/mzm.dnlpwuvy.aac.p.m4a", 
+            "name": "Pickin' Wildflowers", 
+            "number": 5
+        }, 
+        {
+            "duration": "04:23", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/33/e9/6e/mzm.kbtetskq.aac.p.m4a", 
+            "name": "Every Time I Hear Your Name", 
+            "number": 6
+        }, 
+        {
+            "duration": "04:17", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/eb/53/16/mzm.ugkzjrvl.aac.p.m4a", 
+            "name": "Stick It", 
+            "number": 7
+        }, 
+        {
+            "duration": "04:27", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/f8/ba/b9/mzm.alpedvzw.aac.p.m4a", 
+            "name": "Plan B", 
+            "number": 8
+        }, 
+        {
+            "duration": "04:01", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/2d/80/1a/mzm.lxyrjcqn.aac.p.m4a", 
+            "name": "Lazy With Your Love", 
+            "number": 9
+        }, 
+        {
+            "duration": "04:19", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/64/5d/a3/mzm.tdhcmkie.aac.p.m4a", 
+            "name": "The Clothes Don't Make the Man", 
+            "number": 10
+        }, 
+        {
+            "duration": "04:27", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/59/67/24/mzm.okjzafxr.aac.p.m4a", 
+            "name": "I'll Know When I Get There", 
+            "number": 11
+        }
+    ], 
+    "id": 253205302
+}

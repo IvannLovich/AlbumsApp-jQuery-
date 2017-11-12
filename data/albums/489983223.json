@@ -1,0 +1,129 @@
+{
+    "genres": [
+        "Hip-Hop/Rap"
+    ], 
+    "name": "Gift of Gab (Hosted by DJ Scream)", 
+    "artist": {
+        "id": 72388465, 
+        "name": "Rocko"
+    }, 
+    "release_date": "2011-12-13T08:00:00Z", 
+    "thumbnail": "http://is5.mzstatic.com/image/thumb/Music/v4/00/4e/ad/004ead01-231c-9d8d-3f79-d825779e67ca/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "00:43", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/b4/cc/85/b4cc85bb-adf8-3103-8f35-baee6ef001e0/mzaf_970395797005285538.plus.aac.p.m4a", 
+            "name": "Intro", 
+            "number": 1
+        }, 
+        {
+            "duration": "04:12", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/82/67/f7/8267f792-c240-fffd-1c25-38d450478ce7/mzaf_6027967029291652518.plus.aac.p.m4a", 
+            "name": "Balance (feat. Verse Simmonds)", 
+            "number": 2
+        }, 
+        {
+            "duration": "02:42", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/61/98/1b/61981b85-87a1-ab53-f251-ffda16b71e64/mzaf_6572610722114062885.plus.aac.p.m4a", 
+            "name": "The Choice Is Yours", 
+            "number": 3
+        }, 
+        {
+            "duration": "03:49", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/0c/7e/35/0c7e356c-9d09-1810-2017-0c6d9288133f/mzaf_5088353762663620812.plus.aac.p.m4a", 
+            "name": "Take U Away (feat. Future)", 
+            "number": 4
+        }, 
+        {
+            "duration": "03:20", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/2b/3e/48/2b3e48a2-b757-6f17-9880-8454fbd02395/mzaf_17184273847634628.plus.aac.p.m4a", 
+            "name": "4 A Living", 
+            "number": 5
+        }, 
+        {
+            "duration": "03:57", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/14/1a/af/141aaf6b-18b6-facf-64a9-0ffceee2b75c/mzaf_4573504020934635024.plus.aac.p.m4a", 
+            "name": "Thumb Thru That Check (feat. Scooter)", 
+            "number": 6
+        }, 
+        {
+            "duration": "03:32", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/e8/fb/3c/e8fb3c63-af69-bc43-29ed-ab9b97f1b916/mzaf_2220249818290659908.plus.aac.p.m4a", 
+            "name": "Good Enough", 
+            "number": 7
+        }, 
+        {
+            "duration": "00:55", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/2a/63/c7/2a63c716-7db2-4444-1b2b-9a54cf7f4025/mzaf_15181486421044511.plus.aac.p.m4a", 
+            "name": "Interlude", 
+            "number": 8
+        }, 
+        {
+            "duration": "04:00", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/55/a0/c3/mzi.sahpblvq.aac.p.m4a", 
+            "name": "Squares Out Your Circle (feat. Future)", 
+            "number": 9
+        }, 
+        {
+            "duration": "02:18", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/26/9f/76/269f7692-e6a8-a58e-b1b7-28b3957c7a34/mzaf_3486620068215310995.plus.aac.p.m4a", 
+            "name": "I Can't Wait", 
+            "number": 10
+        }, 
+        {
+            "duration": "03:38", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/0a/d0/f5/0ad0f584-2cb1-23f4-0b91-6d3e9d6ef94e/mzaf_472922499769035378.plus.aac.p.m4a", 
+            "name": "L.O.V.E.", 
+            "number": 11
+        }, 
+        {
+            "duration": "03:30", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/f8/64/2d/f8642d23-5e90-1a12-271d-7e192a0ba4fd/mzaf_4590786650125275184.plus.aac.p.m4a", 
+            "name": "What U Doin'", 
+            "number": 12
+        }, 
+        {
+            "duration": "03:00", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/73/10/0e/73100ec1-112f-7d14-ee76-e8429136177b/mzaf_691923419930112985.plus.aac.p.m4a", 
+            "name": "Bout That Life", 
+            "number": 13
+        }, 
+        {
+            "duration": "04:04", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/4a/ac/c1/4aacc1f8-66ba-303f-b68f-e6cfd862b346/mzaf_9184655631276697030.plus.aac.p.m4a", 
+            "name": "Catch Me", 
+            "number": 14
+        }, 
+        {
+            "duration": "03:52", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/28/7c/34/287c34ba-2cf1-0245-2e04-10523a63862a/mzaf_6298066071773391484.plus.aac.p.m4a", 
+            "name": "Change", 
+            "number": 15
+        }, 
+        {
+            "duration": "04:14", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/26/ac/4c/26ac4c59-4095-8c52-e6ae-528d13a15435/mzaf_8083828044834972039.plus.aac.p.m4a", 
+            "name": "Power of That P (feat. Future)", 
+            "number": 16
+        }, 
+        {
+            "duration": "04:11", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/aa/57/c5/mzi.rdyaszpx.aac.p.m4a", 
+            "name": "My Family", 
+            "number": 17
+        }, 
+        {
+            "duration": "03:06", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/e7/50/8b/e7508bbe-4d94-3313-359f-24d91ab849a5/mzaf_4292342923046366670.plus.aac.p.m4a", 
+            "name": "Listen While I Draw", 
+            "number": 18
+        }, 
+        {
+            "duration": "02:52", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/f2/8c/c5/f28cc50c-0cf6-2961-16bd-4388a2af2136/mzaf_384469359378039294.plus.aac.p.m4a", 
+            "name": "Blessings", 
+            "number": 19
+        }
+    ], 
+    "id": 489983223
+}

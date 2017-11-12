@@ -1,0 +1,135 @@
+{
+    "genres": [
+        "Pop"
+    ], 
+    "name": "Dutty Rock", 
+    "artist": {
+        "id": 155138, 
+        "name": "Sean Paul"
+    }, 
+    "release_date": "2002-11-12T08:00:00Z", 
+    "thumbnail": "http://is4.mzstatic.com/image/thumb/Music/v4/2e/e9/a0/2ee9a0e7-3835-ac56-38a7-0bbe2cc5baf1/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "02:24", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview91/v4/de/40/06/de400691-562a-796b-e794-249c5312394a/mzaf_5062494148008832694.plus.aac.p.m4a", 
+            "name": "Dutty Rock Intro", 
+            "number": 1
+        }, 
+        {
+            "duration": "03:43", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/63/92/64/mzm.fznfchju.aac.p.m4a", 
+            "name": "Shout (Street Respect)", 
+            "number": 2
+        }, 
+        {
+            "duration": "03:48", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/06/37/f1/0637f122-81f3-e928-9714-1c0ed807a46c/mzaf_2263389379277527538.plus.aac.p.m4a", 
+            "name": "Gimme the Light", 
+            "number": 3
+        }, 
+        {
+            "duration": "03:52", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/e9/be/c0/mzm.alaxvjln.aac.p.m4a", 
+            "name": "Like Glue", 
+            "number": 4
+        }, 
+        {
+            "duration": "03:31", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/81/46/46/mzm.fjrjlzyg.aac.p.m4a", 
+            "name": "Get Busy", 
+            "number": 5
+        }, 
+        {
+            "duration": "04:06", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview122/v4/79/64/0d/79640d1e-bb03-af7d-0d36-52511e9cd4e1/mzaf_6448316692680711035.plus.aac.p.m4a", 
+            "name": "Baby Boy (feat. Beyonc\u00e9)", 
+            "number": 6
+        }, 
+        {
+            "duration": "04:03", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/2d/68/3e/mzm.yydtjlbk.aac.p.m4a", 
+            "name": "Top of the Game (feat. Rahzel)", 
+            "number": 7
+        }, 
+        {
+            "duration": "03:14", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview111/v4/ed/0a/91/ed0a911b-3ffc-3cf1-f486-06936e824849/mzaf_5327999811722664796.plus.aac.p.m4a", 
+            "name": "Ganja Breed (feat. Chico)", 
+            "number": 8
+        }, 
+        {
+            "duration": "03:54", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview111/v4/78/5b/6e/785b6e8d-8f15-7cbe-8e00-1ef5dbfeba1e/mzaf_4407509720974473014.plus.aac.p.m4a", 
+            "name": "Concrete", 
+            "number": 9
+        }, 
+        {
+            "duration": "04:33", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview82/v4/10/45/ee/1045ee91-bc67-1373-b0fe-d0b87aca1d8c/mzaf_604093682722900889.plus.aac.p.m4a", 
+            "name": "I'm Still In Love With You", 
+            "number": 10
+        }, 
+        {
+            "duration": "03:48", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/9f/8d/77/mzm.dsaoagpe.aac.p.m4a", 
+            "name": "International Affair (feat. Debbie Nova)", 
+            "number": 11
+        }, 
+        {
+            "duration": "03:23", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview111/v4/03/1b/61/031b612b-00ee-e9b4-3953-a246cd9dc151/mzaf_9100240670038353458.plus.aac.p.m4a", 
+            "name": "Can You Do the Work (feat. Ce'Cile)", 
+            "number": 12
+        }, 
+        {
+            "duration": "03:47", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/e9/db/b1/mzm.zqoezmhl.aac.p.m4a", 
+            "name": "Punkie", 
+            "number": 13
+        }, 
+        {
+            "duration": "03:40", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview111/v4/57/02/e6/5702e651-89ca-97a7-857e-32eefbee58d2/mzaf_690714571166814582.plus.aac.p.m4a", 
+            "name": "My Name", 
+            "number": 14
+        }, 
+        {
+            "duration": "02:01", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview122/v4/24/c0/e0/24c0e00c-3c18-02ab-228d-7e5e6b8f513d/mzaf_5278788140764877781.plus.aac.p.m4a", 
+            "name": "Jukin' Punny", 
+            "number": 15
+        }, 
+        {
+            "duration": "03:20", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview111/v4/cc/50/eb/cc50eb81-b4ea-ac3b-5b08-60fe547a1c06/mzaf_2277862861914897628.plus.aac.p.m4a", 
+            "name": "Gimme the Light (Pass the Dro-Voisier Remix) [feat. Busta Rhymes]", 
+            "number": 16
+        }, 
+        {
+            "duration": "03:46", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview111/v4/75/1b/e4/751be42d-56bd-0786-bc4e-2a18bf1e5139/mzaf_8505908575280135396.plus.aac.p.m4a", 
+            "name": "Bubble (feat. Fahrenheit)", 
+            "number": 17
+        }, 
+        {
+            "duration": "03:55", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview122/v4/3c/dc/0e/3cdc0e68-00f3-5f63-d9e1-239412148d7b/mzaf_4981699350495437452.plus.aac.p.m4a", 
+            "name": "Shake That Thing", 
+            "number": 18
+        }, 
+        {
+            "duration": "03:46", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview82/v4/b4/97/f0/b497f09f-a28a-d6ec-4c7d-1d313b10d24f/mzaf_4598847527111047267.plus.aac.p.m4a", 
+            "name": "Esa Loca (feat. Tony Touch and R.O.B.B.)", 
+            "number": 19
+        }, 
+        {
+            "duration": "03:35", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/51/d1/92/mzm.oeiyffwk.aac.p.m4a", 
+            "name": "Punkie (Espanol)", 
+            "number": 20
+        }
+    ], 
+    "id": 79305595
+}

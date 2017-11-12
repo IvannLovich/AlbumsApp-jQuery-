@@ -1,0 +1,99 @@
+{
+    "genres": [
+        "Hip-Hop/Rap"
+    ], 
+    "name": "Rockness A.P.", 
+    "artist": {
+        "id": 218563, 
+        "name": "Rock"
+    }, 
+    "release_date": "2017-09-22T07:00:00Z", 
+    "thumbnail": "http://is3.mzstatic.com/image/thumb/Music118/v4/27/a0/16/27a016cd-14f4-e723-243d-d25b024e8d56/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "02:21", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/d4/08/e3/d408e3a4-73f2-4500-b237-0fb91bcca22c/mzaf_526880102930030112.plus.aac.p.m4a", 
+            "name": "Just Rap", 
+            "number": 1
+        }, 
+        {
+            "duration": "03:12", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/81/9c/47/819c4728-62ad-5545-79bb-0ff4934d5df7/mzaf_3369058539868726263.plus.aac.p.m4a", 
+            "name": "Wishin (feat. Kuniva)", 
+            "number": 2
+        }, 
+        {
+            "duration": "03:33", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/d8/f2/75/d8f275fe-8e92-42ec-d223-19e762d3d83c/mzaf_4921052510320062095.plus.aac.p.m4a", 
+            "name": "GW BaG", 
+            "number": 3
+        }, 
+        {
+            "duration": "03:34", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/a6/29/34/a629344d-68f9-71f5-595c-9b931c23c7b1/mzaf_2821988915898380612.plus.aac.p.m4a", 
+            "name": "Camp - Wu (feat. Inspectah Deck, Method Man & Tek & Steele)", 
+            "number": 4
+        }, 
+        {
+            "duration": "04:43", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/72/61/5b/72615b44-c9ea-dfbe-37ec-1a883f5af60f/mzaf_3215148959546639001.plus.aac.p.m4a", 
+            "name": "Rumble for Me (feat. Kofi Black & Ron Browz)", 
+            "number": 5
+        }, 
+        {
+            "duration": "04:06", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/b5/14/9f/b5149fff-33ea-aeba-fd73-f1dd04fc347f/mzaf_2586951700312152358.plus.aac.p.m4a", 
+            "name": "O.G.", 
+            "number": 6
+        }, 
+        {
+            "duration": "04:11", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/8e/bb/ca/8ebbca39-2d85-1a1c-10cc-13a244bd75b3/mzaf_2048394886373873461.plus.aac.p.m4a", 
+            "name": "FaxMachine (feat. M.O.P.)", 
+            "number": 7
+        }, 
+        {
+            "duration": "02:40", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/40/5a/36/405a363e-487c-8065-f816-623ccd0013fc/mzaf_4916796413730145233.plus.aac.p.m4a", 
+            "name": "The Purge", 
+            "number": 8
+        }, 
+        {
+            "duration": "03:57", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/e6/56/9e/e6569e40-9bb2-6999-1a46-d48945ec0ee2/mzaf_9179339522755503725.plus.aac.p.m4a", 
+            "name": "Poof (feat. Buckshot)", 
+            "number": 9
+        }, 
+        {
+            "duration": "03:39", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/db/14/fe/db14feb6-87cc-5923-9af5-c2150d5293f2/mzaf_2813076229618054241.plus.aac.p.m4a", 
+            "name": "Declaration (feat. Raekwon, Ras Kass & the Last American B-Boy)", 
+            "number": 10
+        }, 
+        {
+            "duration": "04:13", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/68/4e/d8/684ed810-94e7-bb8b-11e5-5be5061c983e/mzaf_57731588390511321.plus.aac.p.m4a", 
+            "name": "Rockness A.P.", 
+            "number": 11
+        }, 
+        {
+            "duration": "03:31", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/97/54/91/97549127-c654-664c-8dd5-cce0eff0ca6c/mzaf_3059690315100046245.plus.aac.p.m4a", 
+            "name": "F.A.M. (feat. Young Noble)", 
+            "number": 12
+        }, 
+        {
+            "duration": "04:11", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/f8/b6/14/f8b61400-5ebe-a8aa-363d-bbdcda548ead/mzaf_8999371467560875631.plus.aac.p.m4a", 
+            "name": "Shine Down (feat. Kofi Black)", 
+            "number": 13
+        }, 
+        {
+            "duration": "04:00", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/03/3e/d5/033ed553-d0a5-a006-5666-facd7f06c20a/mzaf_8552048870556667492.plus.aac.p.m4a", 
+            "name": "Da Steets (Ron Browz Remix)", 
+            "number": 14
+        }
+    ], 
+    "id": 1272288467
+}

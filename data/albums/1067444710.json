@@ -1,0 +1,135 @@
+{
+    "genres": [
+        "Alternative"
+    ], 
+    "name": "20 #1\u2019s: Alternative Rock", 
+    "artist": {
+        "id": 36270, 
+        "name": "Various Artists"
+    }, 
+    "release_date": "2015-12-18T08:00:00Z", 
+    "thumbnail": "http://is1.mzstatic.com/image/thumb/Music7/v4/1b/f2/63/1bf263a7-c4c2-d93a-923d-cff05841140a/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "02:48", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music7/v4/07/93/9c/07939c3f-38a4-f2cc-0fa9-bdc19c338271/mzaf_8008990812340870964.plus.aac.p.m4a", 
+            "name": "All the Small Things", 
+            "number": 1
+        }, 
+        {
+            "duration": "03:52", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music69/v4/95/e9/bc/95e9bc95-6278-c2bc-51bf-b38c3c756be6/mzaf_4805886568322233666.plus.aac.p.m4a", 
+            "name": "Found Out About You", 
+            "number": 2
+        }, 
+        {
+            "duration": "05:06", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music7/v4/89/ea/6c/89ea6cbd-b30f-2836-33fa-70600bfe692b/mzaf_1868015031186543442.plus.aac.p.m4a", 
+            "name": "Zombie", 
+            "number": 3
+        }, 
+        {
+            "duration": "02:51", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music69/v4/42/18/45/421845eb-b802-22e9-97e3-2e40602dc0d3/mzaf_6209993928267942320.plus.aac.p.m4a", 
+            "name": "What I Got", 
+            "number": 4
+        }, 
+        {
+            "duration": "03:35", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music69/v4/37/1c/b1/371cb104-2bb8-a55e-38ae-1feacc57f9f0/mzaf_5812938135758116965.plus.aac.p.m4a", 
+            "name": "No Rain", 
+            "number": 5
+        }, 
+        {
+            "duration": "02:50", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/bb/76/d7/bb76d751-66e3-f965-e7c7-c7d3cbf274dc/mzaf_9156381176981981793.plus.aac.p.m4a", 
+            "name": "Sex & Candy", 
+            "number": 6
+        }, 
+        {
+            "duration": "04:33", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music49/v4/1b/74/e6/1b74e67a-2398-6d23-2fca-d6dc9991a59e/mzaf_1223318513997370268.plus.aac.p.m4a", 
+            "name": "Closing Time", 
+            "number": 7
+        }, 
+        {
+            "duration": "05:25", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music7/v4/9a/fb/7b/9afb7bb5-35d8-6a85-c7d8-78a6499e8de4/mzaf_6459798986201708676.plus.aac.p.m4a", 
+            "name": "Lightning Crashes", 
+            "number": 8
+        }, 
+        {
+            "duration": "02:58", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/3e/38/36/3e3836d8-cc64-1bb6-7989-f4610693b1bc/mzaf_4786361459479662354.plus.aac.p.m4a", 
+            "name": "Fat Lip", 
+            "number": 9
+        }, 
+        {
+            "duration": "03:34", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/1f/29/27/1f2927c3-f8f0-d044-695a-94b0b422b544/mzaf_4879851875184778697.plus.aac.p.m4a", 
+            "name": "Hanging By a Moment", 
+            "number": 10
+        }, 
+        {
+            "duration": "03:25", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/c1/ed/17/c1ed1710-c03d-1d7c-0e92-5d27df96dd6b/mzaf_8862161213054885015.plus.aac.p.m4a", 
+            "name": "Walkin' On the Sun", 
+            "number": 11
+        }, 
+        {
+            "duration": "03:19", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/9f/cb/be/9fcbbe41-e69b-5c59-4f92-bf25398a3602/mzaf_6322039523158033434.plus.aac.p.m4a", 
+            "name": "Last Resort", 
+            "number": 12
+        }, 
+        {
+            "duration": "04:50", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/45/c6/1e/45c61e7c-c2f8-82ce-4232-79b7ed88166a/mzaf_2803798054700481268.plus.aac.p.m4a", 
+            "name": "Counting Blue Cars (Tell Me Your Thoughts On God)", 
+            "number": 13
+        }, 
+        {
+            "duration": "03:51", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music49/v4/ad/50/46/ad5046dd-6faa-7103-e2ef-a5dacf961c5c/mzaf_2619380286759915314.plus.aac.p.m4a", 
+            "name": "Always", 
+            "number": 14
+        }, 
+        {
+            "duration": "03:13", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/3b/9a/c3/3b9ac3b4-40fc-8636-ffcd-6384ac8f5543/mzaf_8131890032941337355.plus.aac.p.m4a", 
+            "name": "The Impression That I Get", 
+            "number": 15
+        }, 
+        {
+            "duration": "03:26", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music49/v4/9d/a3/78/9da378c7-d9e6-3150-b21d-63b0a3742364/mzaf_7342376340499884749.plus.aac.p.m4a", 
+            "name": "Smooth Criminal", 
+            "number": 16
+        }, 
+        {
+            "duration": "03:00", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music7/v4/4d/fd/1e/4dfd1ecb-b8c2-7462-5c2c-a39f6939f11b/mzaf_6511603636135980938.plus.aac.p.m4a", 
+            "name": "Mother Mother", 
+            "number": 17
+        }, 
+        {
+            "duration": "03:53", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music69/v4/89/94/01/899401d5-4268-14f5-b2c2-a0a134c93ecc/mzaf_2778504099467672201.plus.aac.p.m4a", 
+            "name": "The Reason", 
+            "number": 18
+        }, 
+        {
+            "duration": "03:07", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music69/v4/fa/1a/d7/fa1ad729-671a-bbd4-b359-15343f9fee8b/mzaf_2878286738701171019.plus.aac.p.m4a", 
+            "name": "Feel Good Drag", 
+            "number": 19
+        }, 
+        {
+            "duration": "04:57", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/19/5e/fa/195efa1b-d1f0-ef71-3907-81c2ffbf6067/mzaf_4518595412818477582.plus.aac.p.m4a", 
+            "name": "Pepper", 
+            "number": 20
+        }
+    ], 
+    "id": 1067444710
+}

@@ -1,0 +1,111 @@
+{
+    "genres": [
+        "Hip-Hop/Rap"
+    ], 
+    "name": "Rocko and The Empire - Rocko Dinero", 
+    "artist": {
+        "id": 72388465, 
+        "name": "Rocko"
+    }, 
+    "release_date": "2011-06-28T07:00:00Z", 
+    "thumbnail": "http://is4.mzstatic.com/image/thumb/Music/v4/7f/18/79/7f1879d6-0607-e5b7-5680-007bde7fb22e/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "03:17", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/4f/57/0b/mzm.xbcflawl.aac.p.m4a", 
+            "name": "Star (feat. Geno)", 
+            "number": 1
+        }, 
+        {
+            "duration": "03:53", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/04/d0/73/mzm.emcujxxn.aac.p.m4a", 
+            "name": "Just In Case (feat. Rick Ross)", 
+            "number": 2
+        }, 
+        {
+            "duration": "03:47", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/0f/e6/af/mzm.zgdgjffy.aac.p.m4a", 
+            "name": "Ambitious (feat. Future)", 
+            "number": 3
+        }, 
+        {
+            "duration": "04:08", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/e5/86/f3/mzm.jxzopkmf.aac.p.m4a", 
+            "name": "Business Is Personal", 
+            "number": 4
+        }, 
+        {
+            "duration": "03:10", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/17/e7/aa/mzm.tctjejok.aac.p.m4a", 
+            "name": "Heart", 
+            "number": 5
+        }, 
+        {
+            "duration": "02:16", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/b3/90/37/mzm.vyklcmkw.aac.p.m4a", 
+            "name": "Bells", 
+            "number": 6
+        }, 
+        {
+            "duration": "03:23", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/98/d5/a9/mzm.yuiuzpmq.aac.p.m4a", 
+            "name": "I Salute You (feat. Gucci Mane)", 
+            "number": 7
+        }, 
+        {
+            "duration": "04:48", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/53/94/48/mzm.brhfhqls.aac.p.m4a", 
+            "name": "Us (feat. Yo Gotti)", 
+            "number": 8
+        }, 
+        {
+            "duration": "03:12", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/cf/82/41/mzm.ifytfzor.aac.p.m4a", 
+            "name": "Goin Steady", 
+            "number": 9
+        }, 
+        {
+            "duration": "03:10", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/bd/6a/e0/mzm.hdidgwee.aac.p.m4a", 
+            "name": "Streets Made of Gold", 
+            "number": 10
+        }, 
+        {
+            "duration": "03:30", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/57/2f/49/mzm.xkavlijd.aac.p.m4a", 
+            "name": "I Can't Help It (feat. TI)", 
+            "number": 11
+        }, 
+        {
+            "duration": "03:12", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/4f/66/6d/mzm.gkkircid.aac.p.m4a", 
+            "name": "Focused On the Money", 
+            "number": 12
+        }, 
+        {
+            "duration": "02:42", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/d4/97/a9/mzm.cwzelnkb.aac.p.m4a", 
+            "name": "How Could You Be Mad", 
+            "number": 13
+        }, 
+        {
+            "duration": "03:11", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/c4/a7/56/mzm.zzxpilgh.aac.p.m4a", 
+            "name": "Loses", 
+            "number": 14
+        }, 
+        {
+            "duration": "03:54", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/6c/33/79/mzm.yazbetsx.aac.p.m4a", 
+            "name": "Right Here By Me", 
+            "number": 15
+        }, 
+        {
+            "duration": "03:17", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/bb/62/35/mzm.faqfwwum.aac.p.m4a", 
+            "name": "Exit Strategy (Bonus Track)", 
+            "number": 16
+        }
+    ], 
+    "id": 443256330
+}

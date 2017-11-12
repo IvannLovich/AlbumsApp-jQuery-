@@ -1,0 +1,129 @@
+{
+    "genres": [
+        "Comedy"
+    ], 
+    "name": "Cheese and Crackers - The Greatest Hits", 
+    "artist": {
+        "id": 163676, 
+        "name": "Chris Rock"
+    }, 
+    "release_date": "2007-01-01T08:00:00Z", 
+    "thumbnail": "http://is1.mzstatic.com/image/thumb/Music/v4/3f/4d/c6/3f4dc6e1-883e-f1d2-d075-eaa7ddfd4f88/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "03:04", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/67/f0/1d/mzm.rviponiw.aac.p.m4a", 
+            "name": "Tossed Salad Man", 
+            "number": 1
+        }, 
+        {
+            "duration": "05:31", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/40/99/03/mzm.drffrdkj.aac.p.m4a", 
+            "name": "Oj", 
+            "number": 2
+        }, 
+        {
+            "duration": "07:41", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/5c/44/3a/mzm.wdbzrhxm.aac.p.m4a", 
+            "name": "Blacks", 
+            "number": 3
+        }, 
+        {
+            "duration": "02:28", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/84/08/9c/mzm.ekcwgapl.aac.p.m4a", 
+            "name": "Olympics", 
+            "number": 4
+        }, 
+        {
+            "duration": "03:55", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/37/52/48/mzm.sublfvhl.aac.p.m4a", 
+            "name": "Gun Control", 
+            "number": 5
+        }, 
+        {
+            "duration": "02:57", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/30/d6/a6/mzm.uhmiutup.aac.p.m4a", 
+            "name": "The Big Piece of Chicken", 
+            "number": 6
+        }, 
+        {
+            "duration": "04:23", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/e0/59/68/mzm.nbcdqogn.aac.p.m4a", 
+            "name": "Defending Rap", 
+            "number": 7
+        }, 
+        {
+            "duration": "04:45", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/fd/b2/4d/mzm.xboycwna.aac.p.m4a", 
+            "name": "The Government Hates Rap", 
+            "number": 8
+        }, 
+        {
+            "duration": "05:13", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/28/e0/f7/mzm.tbcgrjyk.aac.p.m4a", 
+            "name": "Affirmative Action", 
+            "number": 9
+        }, 
+        {
+            "duration": "02:50", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/28/0d/ad/mzm.ahoylfft.aac.p.m4a", 
+            "name": "The Church of the ATM", 
+            "number": 10
+        }, 
+        {
+            "duration": "03:40", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/eb/6e/e2/mzm.glbqhxar.aac.p.m4a", 
+            "name": "Aids Test", 
+            "number": 11
+        }, 
+        {
+            "duration": "02:14", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/4d/04/1f/mzm.ameewihz.aac.p.m4a", 
+            "name": "Generic Food", 
+            "number": 12
+        }, 
+        {
+            "duration": "01:47", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/cf/a1/bc/mzm.utzzfczk.aac.p.m4a", 
+            "name": "Fat Black Women", 
+            "number": 13
+        }, 
+        {
+            "duration": "03:16", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/a5/22/f5/mzm.qmktfoca.aac.p.m4a", 
+            "name": "Domestic Abuse", 
+            "number": 14
+        }, 
+        {
+            "duration": "01:44", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/e4/d6/03/mzm.hbjudrnv.aac.p.m4a", 
+            "name": "Platonic Friends", 
+            "number": 15
+        }, 
+        {
+            "duration": "02:24", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/27/60/8a/mzm.tejsrvgu.aac.p.m4a", 
+            "name": "Women Lie", 
+            "number": 16
+        }, 
+        {
+            "duration": "02:01", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/10/2d/a0/mzm.ivdylxtu.aac.p.m4a", 
+            "name": "Never Ask", 
+            "number": 17
+        }, 
+        {
+            "duration": "00:51", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/26/1b/fe/mzm.aezysgyv.aac.p.m4a", 
+            "name": "Lending Money", 
+            "number": 18
+        }, 
+        {
+            "duration": "04:29", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/15/aa/ad/mzm.vqutaumg.aac.p.m4a", 
+            "name": "Intercourse", 
+            "number": 19
+        }
+    ], 
+    "id": 270230212
+}

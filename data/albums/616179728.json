@@ -1,0 +1,117 @@
+{
+    "genres": [
+        "Hip-Hop/Rap"
+    ], 
+    "name": "Gift of Gab 2 (Deluxe Edition)", 
+    "artist": {
+        "id": 72388465, 
+        "name": "Rocko"
+    }, 
+    "release_date": "2013-03-05T08:00:00Z", 
+    "thumbnail": "http://is3.mzstatic.com/image/thumb/Music2/v4/e3/47/5a/e3475a31-72cb-87c1-cd19-6974ebcc9b47/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "01:48", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/b4/28/de/b428de3c-1821-76d3-59c9-cd09d5260858/mzaf_7015197506191276469.plus.aac.p.m4a", 
+            "name": "Prepared", 
+            "number": 1
+        }, 
+        {
+            "duration": "03:18", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/74/27/93/74279350-6d7e-8418-6f81-3e68afaa3aea/mzaf_6191706965524397348.plus.aac.p.m4a", 
+            "name": "Feels Guud", 
+            "number": 2
+        }, 
+        {
+            "duration": "04:19", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/b3/7b/3c/b37b3c7c-f99d-ad7d-80de-0801ffd0f104/mzaf_2913184239963420926.plus.aac.p.m4a", 
+            "name": "U.O.E.N.O. (feat. Rick Ross & Future)", 
+            "number": 3
+        }, 
+        {
+            "duration": "02:21", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/e8/20/d5/e820d5cb-2ad5-2c29-dcfa-98f4dc286be1/mzaf_8110682941364453383.plus.aac.p.m4a", 
+            "name": "Imagine Dat", 
+            "number": 4
+        }, 
+        {
+            "duration": "03:53", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/0e/b7/a2/0eb7a2c1-f742-a8c5-df04-819e13929327/mzaf_839334506936297194.plus.aac.p.m4a", 
+            "name": "ShiiKno (feat. Lloyd)", 
+            "number": 5
+        }, 
+        {
+            "duration": "03:59", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/8d/4a/8b/8d4a8b31-6bad-7be9-8270-888c24e63727/mzaf_3579523194571021521.plus.aac.p.m4a", 
+            "name": "Slow Down", 
+            "number": 6
+        }, 
+        {
+            "duration": "04:06", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/66/e7/9d/66e79da5-902e-6916-a165-a991a4b4d74b/mzaf_483731644475151055.plus.aac.p.m4a", 
+            "name": "One Two", 
+            "number": 7
+        }, 
+        {
+            "duration": "04:53", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/93/39/89/933989ed-d58b-85c3-bc51-018040cfe2af/mzaf_6015842550164880108.plus.aac.p.m4a", 
+            "name": "Da Streets", 
+            "number": 8
+        }, 
+        {
+            "duration": "04:02", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/bf/44/bc/bf44bc04-7a68-6b4b-c59a-c7701c569364/mzaf_5006846002468965217.plus.aac.p.m4a", 
+            "name": "Stoooopid", 
+            "number": 9
+        }, 
+        {
+            "duration": "02:10", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/a5/e6/3a/a5e63a2e-e501-6352-b160-3ab3b2b390d0/mzaf_2595448448086382580.plus.aac.p.m4a", 
+            "name": "Plenty", 
+            "number": 10
+        }, 
+        {
+            "duration": "04:06", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/dc/d8/f3/dcd8f38d-1cc2-6bf9-fd47-71ba1e95e157/mzaf_5922093079289190912.plus.aac.p.m4a", 
+            "name": "Y", 
+            "number": 11
+        }, 
+        {
+            "duration": "02:42", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/28/1e/05/281e0519-4b7a-ee8d-70c5-3ddc038cf50a/mzaf_2154014924501983228.plus.aac.p.m4a", 
+            "name": "YU and I", 
+            "number": 12
+        }, 
+        {
+            "duration": "04:06", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/c6/8e/5c/c68e5cf6-75d1-cdf4-f160-8a53efc7fa1e/mzaf_1372402631892741950.plus.aac.p.m4a", 
+            "name": "Understand", 
+            "number": 13
+        }, 
+        {
+            "duration": "03:26", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/1d/c6/63/1dc663f6-02fc-8ac0-9a62-12e0d1c39a52/mzaf_3146785996404776072.plus.aac.p.m4a", 
+            "name": "Luv4 Life", 
+            "number": 14
+        }, 
+        {
+            "duration": "03:11", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/fd/e3/6f/fde36f04-85cd-0c0b-adee-a631b43ff2e2/mzaf_3485398016694978622.plus.aac.p.m4a", 
+            "name": "Count On", 
+            "number": 15
+        }, 
+        {
+            "duration": "04:51", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/35/c6/82/35c68240-b24d-0dfc-6c8d-98a64f77ccbf/mzaf_3577387131909966610.plus.aac.p.m4a", 
+            "name": "Probably (feat. Bloody J & Playa)", 
+            "number": 16
+        }, 
+        {
+            "duration": "02:42", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/b9/76/ad/b976ad58-3e67-5b78-8c83-56fa74443aaa/mzaf_543318774116458750.plus.aac.p.m4a", 
+            "name": "You Can Tell (feat. Gucci Mane)", 
+            "number": 17
+        }
+    ], 
+    "id": 616179728
+}

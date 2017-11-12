@@ -1,0 +1,87 @@
+{
+    "genres": [
+        "Punk"
+    ], 
+    "name": "Combat Rock", 
+    "artist": {
+        "id": 522000, 
+        "name": "The Clash"
+    }, 
+    "release_date": "2013-09-06T07:00:00Z", 
+    "thumbnail": "http://is1.mzstatic.com/image/thumb/Music4/v4/ad/16/49/ad1649b9-23c7-f923-5b53-85324c74e24b/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "03:40", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music4/v4/d1/b7/5b/d1b75b22-97eb-97f1-229a-2d023c99440e/mzaf_3921939225163511732.plus.aac.p.m4a", 
+            "name": "Know Your Rights", 
+            "number": 1
+        }, 
+        {
+            "duration": "03:59", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music4/v4/89/ea/b9/89eab94e-9787-d07d-087f-06f16c72e18f/mzaf_483137857914377565.plus.aac.p.m4a", 
+            "name": "Car Jamming", 
+            "number": 2
+        }, 
+        {
+            "duration": "03:08", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music4/v4/cf/b1/0b/cfb10baf-c5f1-1bd3-7fe1-08d789eddc37/mzaf_4992056232744218468.plus.aac.p.m4a", 
+            "name": "Should I Stay or Should I Go", 
+            "number": 3
+        }, 
+        {
+            "duration": "03:42", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music4/v4/f2/b5/f6/f2b5f643-b739-8eb7-3a81-f93ae8154696/mzaf_6528604999702844190.plus.aac.p.m4a", 
+            "name": "Rock the Casbah", 
+            "number": 4
+        }, 
+        {
+            "duration": "03:44", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/0d/d5/58/0dd5583e-7d60-524d-07ae-11281bd86dd3/mzaf_4935502352085661989.plus.aac.p.m4a", 
+            "name": "Red Angel Dragnet", 
+            "number": 5
+        }, 
+        {
+            "duration": "05:30", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music6/v4/db/0d/95/db0d956f-58cf-d377-e2d8-c67f1c6f6bdb/mzaf_3073989361320692023.plus.aac.p.m4a", 
+            "name": "Straight to Hell", 
+            "number": 6
+        }, 
+        {
+            "duration": "04:52", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/a6/3f/c3/a63fc3a0-326e-d303-60c2-ac1bd4969927/mzaf_1512095284362124444.plus.aac.p.m4a", 
+            "name": "Overpowered By Funk", 
+            "number": 7
+        }, 
+        {
+            "duration": "02:30", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music4/v4/01/cc/ad/01ccad13-8432-693b-d3cc-0b481f70d08f/mzaf_6936901687503855745.plus.aac.p.m4a", 
+            "name": "Atom Tan", 
+            "number": 8
+        }, 
+        {
+            "duration": "04:31", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music6/v4/e5/62/82/e562821a-8c74-e31f-08ff-d4d606982308/mzaf_1723526842066203453.plus.aac.p.m4a", 
+            "name": "Sean Flynn", 
+            "number": 9
+        }, 
+        {
+            "duration": "04:43", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music6/v4/1a/c8/9b/1ac89bc6-8da1-329d-0320-7b6116dbb7e0/mzaf_5995272360878806388.plus.aac.p.m4a", 
+            "name": "Ghetto Defendant", 
+            "number": 10
+        }, 
+        {
+            "duration": "02:41", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music4/v4/ce/5d/9b/ce5d9b41-a98b-8768-96f4-52975cf62088/mzaf_644070130268548654.plus.aac.p.m4a", 
+            "name": "Inoculated City", 
+            "number": 11
+        }, 
+        {
+            "duration": "03:14", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music4/v4/6b/de/80/6bde8029-72c5-9e68-b762-9434bb1174ed/mzaf_9156957261683698996.plus.aac.p.m4a", 
+            "name": "Death Is a Star", 
+            "number": 12
+        }
+    ], 
+    "id": 685585931
+}

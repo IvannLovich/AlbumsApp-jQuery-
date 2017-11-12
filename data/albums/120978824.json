@@ -1,0 +1,135 @@
+{
+    "genres": [
+        "Rock"
+    ], 
+    "name": "20 Best of 60's Rock 'n' Roll (Re-Recorded Version)", 
+    "artist": {
+        "id": 825559, 
+        "name": "Various Artists"
+    }, 
+    "release_date": "2003-11-25T08:00:00Z", 
+    "thumbnail": "http://is4.mzstatic.com/image/thumb/Music/v4/48/0c/76/480c7600-c2e6-b681-c88c-b0938da584f4/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "02:50", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/10/d4/20/10d420da-7e2d-3f8d-c2b5-890a06c4b0f7/mzaf_8794930103865457187.plus.aac.p.m4a", 
+            "name": "Sugar Sugar", 
+            "number": 1
+        }, 
+        {
+            "duration": "03:55", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/42/64/3c/42643c28-842e-fc0c-af8b-09d52851c49a/mzaf_2254010992758126807.plus.aac.p.m4a", 
+            "name": "Devil With a Blue Dress On", 
+            "number": 2
+        }, 
+        {
+            "duration": "02:45", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/63/01/7b/63017bf0-77c9-5a2a-a087-194570f668e5/mzaf_8679218707482184606.plus.aac.p.m4a", 
+            "name": "Kicks", 
+            "number": 3
+        }, 
+        {
+            "duration": "02:43", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/1d/ff/84/1dff84b7-3b45-2ee0-a737-9f7bc0e88183/mzaf_3771379657412917587.plus.aac.p.m4a", 
+            "name": "Midnight Confessions", 
+            "number": 4
+        }, 
+        {
+            "duration": "03:46", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/17/b0/da/17b0da95-9f9e-1be4-1eb5-0aeb0451ed0a/mzaf_254388703229011405.plus.aac.p.m4a", 
+            "name": "You Keep Me Hangin' On", 
+            "number": 5
+        }, 
+        {
+            "duration": "02:52", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/44/5b/62/445b6279-1ff8-1a5e-b8be-713e7d196bd5/mzaf_2992850944861219145.plus.aac.p.m4a", 
+            "name": "Lightnin' Strikes", 
+            "number": 6
+        }, 
+        {
+            "duration": "02:30", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/d6/35/80/d63580db-6bc5-6cf2-1401-19bb69f54eb5/mzaf_3134353983356486879.plus.aac.p.m4a", 
+            "name": "Wild Thing", 
+            "number": 7
+        }, 
+        {
+            "duration": "02:46", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/65/de/af/65deaf9d-4356-2eab-a727-dcfec6bf7676/mzaf_7099342692001774643.plus.aac.p.m4a", 
+            "name": "Leader of the Pack", 
+            "number": 8
+        }, 
+        {
+            "duration": "02:17", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/e8/b1/41/e8b14189-0528-5aae-e286-76862684e3e5/mzaf_2931937936807576938.plus.aac.p.m4a", 
+            "name": "Da Doo Ron Ron", 
+            "number": 9
+        }, 
+        {
+            "duration": "01:39", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/0d/8e/38/0d8e38a1-738f-a075-34bb-06c73e14fc3e/mzaf_7176876577189633103.plus.aac.p.m4a", 
+            "name": "Stay", 
+            "number": 10
+        }, 
+        {
+            "duration": "03:01", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/e1/d6/cf/e1d6cff1-0c22-0f60-4767-11aa29db57e1/mzaf_3545743145997674325.plus.aac.p.m4a", 
+            "name": "Hang On Sloopy", 
+            "number": 11
+        }, 
+        {
+            "duration": "05:06", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/23/bc/26/23bc26fd-e853-acae-0044-6b022f05ac5f/mzaf_4933685907631166597.plus.aac.p.m4a", 
+            "name": "We Gotta Get Out of This Place", 
+            "number": 12
+        }, 
+        {
+            "duration": "04:05", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/e1/52/0e/e1520ec6-9340-779f-06af-b12622c4b042/mzaf_5939727212316988973.plus.aac.p.m4a", 
+            "name": "Sunshine Superman", 
+            "number": 13
+        }, 
+        {
+            "duration": "02:55", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/d8/3d/34/d83d3408-4586-9dad-bfb5-25343b21112f/mzaf_2869967379799853091.plus.aac.p.m4a", 
+            "name": "Build Me Up Buttercup", 
+            "number": 14
+        }, 
+        {
+            "duration": "02:05", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/12/7a/e0/127ae0d9-41bf-9341-c421-298a1b8f0628/mzaf_2519974874911898577.plus.aac.p.m4a", 
+            "name": "Sure Gonna Miss Her", 
+            "number": 15
+        }, 
+        {
+            "duration": "03:00", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/dc/20/d0/dc20d0e9-9f1a-8b8d-2283-f9eb25e6bd3a/mzaf_2126085670796843309.plus.aac.p.m4a", 
+            "name": "Going to a Go-Go", 
+            "number": 16
+        }, 
+        {
+            "duration": "02:55", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/b6/b3/1f/b6b31f47-1220-c50d-c87f-3a1ff74b7c83/mzaf_4558297955818337631.plus.aac.p.m4a", 
+            "name": "Soul Man", 
+            "number": 17
+        }, 
+        {
+            "duration": "02:39", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/6e/a4/c6/6ea4c63f-f17d-8aa1-48d3-0876d460efa8/mzaf_2173188019252980529.plus.aac.p.m4a", 
+            "name": "Gloria", 
+            "number": 18
+        }, 
+        {
+            "duration": "02:10", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/33/73/bd/3373bdde-0cdd-2cae-ab2e-65275c0ed773/mzaf_1419409745584825252.plus.aac.p.m4a", 
+            "name": "One Fine Day", 
+            "number": 19
+        }, 
+        {
+            "duration": "02:44", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/a3/f8/fd/a3f8fd3e-5f29-d913-4905-e41982ea3e50/mzaf_2560475552363063161.plus.aac.p.m4a", 
+            "name": "I Second That Emotion", 
+            "number": 20
+        }
+    ], 
+    "id": 120978824
+}

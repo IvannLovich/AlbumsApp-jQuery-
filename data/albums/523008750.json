@@ -1,0 +1,135 @@
+{
+    "genres": [
+        "Soundtrack"
+    ], 
+    "name": "Rock of Ages (Original Motion Picture Soundtrack)", 
+    "artist": {
+        "id": 4035426, 
+        "name": "Various Artists"
+    }, 
+    "release_date": "2012-06-05T07:00:00Z", 
+    "thumbnail": "http://is1.mzstatic.com/image/thumb/Music/v4/4b/53/c1/4b53c17b-752b-3525-3bb5-93a889bc1e91/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "03:43", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/ad/be/69/mzi.zkhtzpxp.aac.p.m4a", 
+            "name": "Paradise City", 
+            "number": 1
+        }, 
+        {
+            "duration": "05:41", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/4e/25/f5/mzi.ialqeqcg.aac.p.m4a", 
+            "name": "Sister Christian / Just Like Paradise / Nothin\u2019 But a Good Time", 
+            "number": 2
+        }, 
+        {
+            "duration": "02:23", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/f2/f9/42/mzi.icoofycn.aac.p.m4a", 
+            "name": "Juke Box Hero / I Love Rock \u2018n\u2019 Roll", 
+            "number": 3
+        }, 
+        {
+            "duration": "02:28", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/48/ee/c8/mzi.foyiapsw.aac.p.m4a", 
+            "name": "Hit Me With Your Best Shot", 
+            "number": 4
+        }, 
+        {
+            "duration": "03:24", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/73/55/ee/mzi.mpfoloif.aac.p.m4a", 
+            "name": "Waiting for a Girl Like You", 
+            "number": 5
+        }, 
+        {
+            "duration": "03:08", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/61/0c/d3/mzi.ehksottk.aac.p.m4a", 
+            "name": "More Than Words / Heaven", 
+            "number": 6
+        }, 
+        {
+            "duration": "04:19", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/73/20/fe/mzi.nqvrggih.aac.p.m4a", 
+            "name": "Wanted Dead or Alive", 
+            "number": 7
+        }, 
+        {
+            "duration": "03:32", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/79/48/6c/mzi.ypybvibd.aac.p.m4a", 
+            "name": "I Want to Know What Love Is", 
+            "number": 8
+        }, 
+        {
+            "duration": "02:26", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/14/1a/20/mzi.ilcabhpw.aac.p.m4a", 
+            "name": "I Wanna Rock", 
+            "number": 9
+        }, 
+        {
+            "duration": "03:13", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/d2/f8/4a/mzi.swjullvy.aac.p.m4a", 
+            "name": "Pour Some Sugar On Me", 
+            "number": 10
+        }, 
+        {
+            "duration": "02:40", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/54/13/ab/mzi.jgjqtuyl.aac.p.m4a", 
+            "name": "Harden My Heart", 
+            "number": 11
+        }, 
+        {
+            "duration": "01:57", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/a8/dc/8d/mzi.dbgitydm.aac.p.m4a", 
+            "name": "Shadows of the Night / Harden My Heart", 
+            "number": 12
+        }, 
+        {
+            "duration": "03:07", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/1b/7f/ef/mzi.jkoqdcsb.aac.p.m4a", 
+            "name": "Here I Go Again", 
+            "number": 13
+        }, 
+        {
+            "duration": "03:05", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/ce/8c/97/mzi.mqqrvogq.aac.p.m4a", 
+            "name": "Can\u2019t Fight This Feeling", 
+            "number": 14
+        }, 
+        {
+            "duration": "02:31", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/10/ad/a9/mzi.gzusoesu.aac.p.m4a", 
+            "name": "Any Way You Want It", 
+            "number": 15
+        }, 
+        {
+            "duration": "03:06", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/bd/2d/b4/mzi.mdkpmjuc.aac.p.m4a", 
+            "name": "Undercover Love", 
+            "number": 16
+        }, 
+        {
+            "duration": "02:57", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/cd/1b/62/mzi.dhjwhbhk.aac.p.m4a", 
+            "name": "Every Rose Has Its Thorn", 
+            "number": 17
+        }, 
+        {
+            "duration": "02:40", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/55/36/98/mzi.qzvjiece.aac.p.m4a", 
+            "name": "Rock You Like a Hurricane", 
+            "number": 18
+        }, 
+        {
+            "duration": "02:18", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/73/9d/29/mzi.wxkzfcoe.aac.p.m4a", 
+            "name": "We Built This City / We\u2019re Not Gonna Take It", 
+            "number": 19
+        }, 
+        {
+            "duration": "04:13", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/f1/4e/69/mzi.tdrdqvnh.aac.p.m4a", 
+            "name": "Don\u2019t Stop Believin\u2019", 
+            "number": 20
+        }
+    ], 
+    "id": 523008750
+}

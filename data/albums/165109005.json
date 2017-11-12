@@ -1,0 +1,195 @@
+{
+    "genres": [
+        "Christian & Gospel"
+    ], 
+    "name": "Rock of Ages: 30 Favorite Hymns", 
+    "artist": {
+        "id": 548906, 
+        "name": "Mormon Tabernacle Choir"
+    }, 
+    "release_date": "1992-06-01T07:00:00Z", 
+    "thumbnail": "http://is5.mzstatic.com/image/thumb/Music/v4/c0/f8/7f/c0f87f8e-d619-45e9-50ed-94114af5cecd/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "03:04", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/90/8e/3d/mzm.dgtdpnlz.aac.p.m4a", 
+            "name": "Onward, Christian Soldiers", 
+            "number": 1
+        }, 
+        {
+            "duration": "03:52", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/c5/37/63/mzm.qsobfocd.aac.p.m4a", 
+            "name": "Abide With Me", 
+            "number": 2
+        }, 
+        {
+            "duration": "02:24", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/68/6d/66/mzm.fxgurthj.aac.p.m4a", 
+            "name": "Bringing In the Sheaves", 
+            "number": 3
+        }, 
+        {
+            "duration": "03:34", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/ce/7c/59/mzm.dkveyzst.aac.p.m4a", 
+            "name": "Rock of Ages", 
+            "number": 4
+        }, 
+        {
+            "duration": "02:48", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/f5/fd/b3/mzm.ahixwczv.aac.p.m4a", 
+            "name": "Now the Day Is Over", 
+            "number": 5
+        }, 
+        {
+            "duration": "02:45", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/95/9b/78/mzm.vbckxiof.aac.p.m4a", 
+            "name": "The Church In the Wildwood [The Little Brown Church (In the Vale)]", 
+            "number": 6
+        }, 
+        {
+            "duration": "03:08", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/5a/83/50/mzm.ifojstgk.aac.p.m4a", 
+            "name": "Softly Now the Light of Day", 
+            "number": 7
+        }, 
+        {
+            "duration": "01:45", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/4f/b7/1e/mzm.tqcfjiiq.aac.p.m4a", 
+            "name": "A Mighty Fortress Is Our God", 
+            "number": 8
+        }, 
+        {
+            "duration": "01:45", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/6d/10/f6/mzm.datrajus.aac.p.m4a", 
+            "name": "How Firm a Foundation", 
+            "number": 9
+        }, 
+        {
+            "duration": "02:01", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/6d/af/8e/mzm.tztldgdw.aac.p.m4a", 
+            "name": "Behold the Great Redeemer Die", 
+            "number": 10
+        }, 
+        {
+            "duration": "01:59", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/3d/b9/11/mzm.dihxqpmn.aac.p.m4a", 
+            "name": "More Holiness Give Me", 
+            "number": 11
+        }, 
+        {
+            "duration": "02:34", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/bd/a2/d5/mzm.mzchawra.aac.p.m4a", 
+            "name": "The Lord Is My Shepherd", 
+            "number": 12
+        }, 
+        {
+            "duration": "01:59", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/77/a7/db/mzm.cqmwlfjs.aac.p.m4a", 
+            "name": "O God, Our Help In Ages Past", 
+            "number": 13
+        }, 
+        {
+            "duration": "02:28", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/f9/3c/c7/mzm.nbwelkov.aac.p.m4a", 
+            "name": "Come, Come, Ye Saints", 
+            "number": 14
+        }, 
+        {
+            "duration": "02:28", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/13/3d/c6/mzm.ygicxuoa.aac.p.m4a", 
+            "name": "I Know That My Redeemer Lives", 
+            "number": 15
+        }, 
+        {
+            "duration": "01:14", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/fd/12/a1/mzm.fhuqumqw.aac.p.m4a", 
+            "name": "Though In the Outward Church", 
+            "number": 16
+        }, 
+        {
+            "duration": "02:16", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/26/69/12/mzm.rgsjusol.aac.p.m4a", 
+            "name": "God of Our Fathers", 
+            "number": 17
+        }, 
+        {
+            "duration": "05:12", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/ab/fd/c9/mzm.pooinods.aac.p.m4a", 
+            "name": "I Need Thee Every Hour", 
+            "number": 18
+        }, 
+        {
+            "duration": "03:06", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/5f/67/12/mzm.frqknhwt.aac.p.m4a", 
+            "name": "Ten Thousand Times Ten Thousand", 
+            "number": 19
+        }, 
+        {
+            "duration": "03:06", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/ca/ed/07/mzm.lqseolrn.aac.p.m4a", 
+            "name": "Nearer, My God, to Thee", 
+            "number": 20
+        }, 
+        {
+            "duration": "03:46", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/ec/90/3f/mzm.wtloxpwy.aac.p.m4a", 
+            "name": "Holy, Holy, Holy", 
+            "number": 21
+        }, 
+        {
+            "duration": "01:28", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/8f/cf/8b/mzm.ttbmipgh.aac.p.m4a", 
+            "name": "God Be With You (Till We Meet Again)", 
+            "number": 22
+        }, 
+        {
+            "duration": "01:47", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/57/47/41/mzm.pebwmziz.aac.p.m4a", 
+            "name": "Father In Heaven", 
+            "number": 23
+        }, 
+        {
+            "duration": "02:27", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/0e/30/a1/mzm.jlxvvjgy.aac.p.m4a", 
+            "name": "Abide With Me, 'Tis Eventide", 
+            "number": 24
+        }, 
+        {
+            "duration": "01:35", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/c8/af/f5/mzm.xjqnvhna.aac.p.m4a", 
+            "name": "Come, Follow Me", 
+            "number": 25
+        }, 
+        {
+            "duration": "01:55", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/ba/f8/00/mzm.inxlepys.aac.p.m4a", 
+            "name": "Lead, Kindly Light", 
+            "number": 26
+        }, 
+        {
+            "duration": "02:10", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/47/f1/3d/mzm.axjkhugw.aac.p.m4a", 
+            "name": "Guide Us, O Thou Great Jehovah", 
+            "number": 27
+        }, 
+        {
+            "duration": "01:37", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/3b/9e/01/mzm.xxczzaac.aac.p.m4a", 
+            "name": "The Morning Breaks, the Shadows Flee", 
+            "number": 28
+        }, 
+        {
+            "duration": "01:46", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/c6/02/cf/mzm.emsqoxzt.aac.p.m4a", 
+            "name": "Come, Thou Glorious Day of Promise", 
+            "number": 29
+        }, 
+        {
+            "duration": "02:22", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/ea/72/8c/mzm.umipocue.aac.p.m4a", 
+            "name": "All Creatures of Our God and King", 
+            "number": 30
+        }
+    ], 
+    "id": 165109005
+}

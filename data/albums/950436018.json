@@ -1,0 +1,75 @@
+{
+    "genres": [
+        "Rock"
+    ], 
+    "name": "First Kiss", 
+    "artist": {
+        "id": 252399, 
+        "name": "Kid Rock"
+    }, 
+    "release_date": "2015-02-20T08:00:00Z", 
+    "thumbnail": "http://is2.mzstatic.com/image/thumb/Music3/v4/2f/50/52/2f5052f5-d663-7f16-b266-feb0f25141bf/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "04:40", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music1/v4/3b/e5/31/3be53162-0b5c-760d-0984-b91b3fc2a54d/mzaf_5468652452478359823.plus.aac.p.m4a", 
+            "name": "First Kiss", 
+            "number": 1
+        }, 
+        {
+            "duration": "04:37", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music3/v4/cd/15/df/cd15df35-b88a-c1cd-ba77-455d7e986893/mzaf_5627234034644192275.plus.aac.p.m4a", 
+            "name": "Good Times, Cheap Wine", 
+            "number": 2
+        }, 
+        {
+            "duration": "04:41", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music1/v4/fd/d5/7f/fdd57fb1-300f-c59e-86b9-bd8be2c67f18/mzaf_4095850447408051804.plus.aac.p.m4a", 
+            "name": "Johnny Cash", 
+            "number": 3
+        }, 
+        {
+            "duration": "03:37", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music5/v4/89/ff/15/89ff156a-5655-c605-78cf-ace3c628cc73/mzaf_6251004275780740821.plus.aac.p.m4a", 
+            "name": "Ain't Enough Whiskey", 
+            "number": 4
+        }, 
+        {
+            "duration": "04:38", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music5/v4/7e/b2/9a/7eb29ae6-faab-b540-8e59-2fc88d3f9256/mzaf_4268423993141150956.plus.aac.p.m4a", 
+            "name": "Drinking Beer With Dad", 
+            "number": 5
+        }, 
+        {
+            "duration": "04:33", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music3/v4/f6/54/12/f6541231-21b7-ba49-c763-cc7b39b05307/mzaf_2982272809620735579.plus.aac.p.m4a", 
+            "name": "Good Time Lookin' For Me", 
+            "number": 6
+        }, 
+        {
+            "duration": "04:48", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music3/v4/c3/69/f4/c369f4a4-b1d8-eb6a-bfff-e10c6ef8629d/mzaf_1864368033995902963.plus.aac.p.m4a", 
+            "name": "Best of Me", 
+            "number": 7
+        }, 
+        {
+            "duration": "04:26", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music1/v4/6f/e6/1d/6fe61db9-a21f-e49f-a71f-3a85e2e9cdf6/mzaf_1520919460355798449.plus.aac.p.m4a", 
+            "name": "One More Song", 
+            "number": 8
+        }, 
+        {
+            "duration": "03:51", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music5/v4/c5/b0/9f/c5b09f38-8321-931c-6309-922ef52903ba/mzaf_3033114377373642166.plus.aac.p.m4a", 
+            "name": "Jesus and Bocephus", 
+            "number": 9
+        }, 
+        {
+            "duration": "04:53", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music3/v4/5e/3f/09/5e3f09f0-4606-f821-2962-abf42823af3f/mzaf_7378004480645512914.plus.aac.p.m4a", 
+            "name": "FOAD (Bonus Track)", 
+            "number": 10
+        }
+    ], 
+    "id": 950436018
+}

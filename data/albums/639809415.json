@@ -1,0 +1,27 @@
+{
+    "genres": [
+        "Hip-Hop/Rap"
+    ], 
+    "name": "U.O.E.N.O. Remix (feat. Future & Wiz Khalifa) - Single", 
+    "artist": {
+        "id": 72388465, 
+        "name": "Rocko"
+    }, 
+    "release_date": "2013-04-23T07:00:00Z", 
+    "thumbnail": "http://is5.mzstatic.com/image/thumb/Music/v4/32/c2/b8/32c2b8cd-cd69-625e-0679-f6f46ebd48d9/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "04:22", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/7e/d3/f0/7ed3f098-fef8-a362-4157-22486235016b/mzaf_3694300418255974554.plus.aac.p.m4a", 
+            "name": "U.O.E.N.O. Remix (feat. Future & Wiz Khalifa)", 
+            "number": 1
+        }, 
+        {
+            "duration": "04:22", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/54/e4/80/54e480cf-f8b3-0722-0379-75331c11a0ce/mzaf_3120075190323740872.plus.aac.p.m4a", 
+            "name": "U.O.E.N.O. Remix (feat. Future & Wiz Khalifa)", 
+            "number": 2
+        }
+    ], 
+    "id": 639809415
+}

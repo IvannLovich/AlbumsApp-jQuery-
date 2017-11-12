@@ -1,0 +1,111 @@
+{
+    "genres": [
+        "Rock"
+    ], 
+    "name": "'90s Rock Number 1's", 
+    "artist": {
+        "id": 58631709, 
+        "name": "Various Artists"
+    }, 
+    "release_date": "2007-01-01T08:00:00Z", 
+    "thumbnail": "http://is5.mzstatic.com/image/thumb/Music/v4/cb/e7/82/cbe78256-864d-ac17-8ce9-d058c191cf3f/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "05:12", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/b7/18/b1/mzm.vfjriefe.aac.p.m4a", 
+            "name": "One Headlight", 
+            "number": 1
+        }, 
+        {
+            "duration": "04:58", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/89/99/13/mzm.cugkfoqt.aac.p.m4a", 
+            "name": "Touch, Peel and Stand", 
+            "number": 2
+        }, 
+        {
+            "duration": "05:24", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/d2/2e/a8/mzm.iulxqxag.aac.p.m4a", 
+            "name": "Lightning Crashes", 
+            "number": 3
+        }, 
+        {
+            "duration": "04:17", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/b6/d5/ed/mzm.pkwbzlee.aac.p.m4a", 
+            "name": "Breakfast At Tiffany's", 
+            "number": 4
+        }, 
+        {
+            "duration": "04:22", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/94/6c/e9/mzm.nxyvsxoe.aac.p.m4a", 
+            "name": "If You Could Only See", 
+            "number": 5
+        }, 
+        {
+            "duration": "03:54", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/d2/b7/f7/mzm.wcxtmduz.aac.p.m4a", 
+            "name": "Here's Where the Story Ends", 
+            "number": 6
+        }, 
+        {
+            "duration": "04:34", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/83/a2/d3/mzm.qlxnfqxm.aac.p.m4a", 
+            "name": "Closing Time", 
+            "number": 7
+        }, 
+        {
+            "duration": "04:31", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/d6/92/ab/mzm.qumjhner.aac.p.m4a", 
+            "name": "Break It Down Again", 
+            "number": 8
+        }, 
+        {
+            "duration": "02:28", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/f8/2e/32/mzm.vkioqele.aac.p.m4a", 
+            "name": "Blood Makes Noise", 
+            "number": 9
+        }, 
+        {
+            "duration": "03:02", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/7f/23/4d/mzm.uncmaxad.aac.p.m4a", 
+            "name": "Mother Mother", 
+            "number": 10
+        }, 
+        {
+            "duration": "03:22", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/8c/11/45/mzm.puogkmye.aac.p.m4a", 
+            "name": "All Star", 
+            "number": 11
+        }, 
+        {
+            "duration": "03:14", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/19/1d/51/mzm.hmscmuaw.aac.p.m4a", 
+            "name": "The Impression That I Get", 
+            "number": 12
+        }, 
+        {
+            "duration": "02:32", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/57/83/4a/mzm.bgumejrz.aac.p.m4a", 
+            "name": "So You Think You're In Love", 
+            "number": 13
+        }, 
+        {
+            "duration": "03:51", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/40/5a/e6/mzm.vwoyqcqb.aac.p.m4a", 
+            "name": "Found Out About You", 
+            "number": 14
+        }, 
+        {
+            "duration": "05:05", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/af/d5/76/mzm.kiijswzr.aac.p.m4a", 
+            "name": "Zombie", 
+            "number": 15
+        }, 
+        {
+            "duration": "03:36", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/98/51/1e/mzm.iquqcykm.aac.p.m4a", 
+            "name": "Lit Up", 
+            "number": 16
+        }
+    ], 
+    "id": 261400980
+}

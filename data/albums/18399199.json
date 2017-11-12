@@ -1,0 +1,135 @@
+{
+    "genres": [
+        "Rock"
+    ], 
+    "name": "20th Century Rocks: 50's Rock 'n Roll - At the Hop (Re-Recorded Versions)", 
+    "artist": {
+        "id": 825559, 
+        "name": "Various Artists"
+    }, 
+    "release_date": "2001-06-01T07:00:00Z", 
+    "thumbnail": "http://is1.mzstatic.com/image/thumb/Music/v4/ec/de/ec/ecdeec93-7d5c-ef37-4ebf-7032fc75c009/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "02:17", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/fd/27/23/fd27234f-5ec4-ddef-b736-e7698b28f29d/mzaf_5894379708507982381.plus.aac.p.m4a", 
+            "name": "Ain't That a Shame", 
+            "number": 1
+        }, 
+        {
+            "duration": "02:34", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/9b/aa/6c/9baa6c5e-56f3-f09b-23c1-e54b64b9f612/mzaf_6770289680083720746.plus.aac.p.m4a", 
+            "name": "Come Go With Me", 
+            "number": 2
+        }, 
+        {
+            "duration": "02:34", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/70/72/16/70721619-0754-25a7-adc5-16f73df6656e/mzaf_125268163374923639.plus.aac.p.m4a", 
+            "name": "Only You (And You Alone) [Re-Recorded]", 
+            "number": 3
+        }, 
+        {
+            "duration": "02:24", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/2b/ba/18/2bba18e7-0d4f-3120-9a5e-e4ebde528382/mzaf_2288484117061211252.plus.aac.p.m4a", 
+            "name": "Singing the Blues", 
+            "number": 4
+        }, 
+        {
+            "duration": "02:13", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/41/70/83/417083ed-01ab-b8b3-b0ce-862d2a6e91c0/mzaf_2265454906377296815.plus.aac.p.m4a", 
+            "name": "The Purple People Eater", 
+            "number": 5
+        }, 
+        {
+            "duration": "02:37", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/08/31/13/08311391-133d-db33-6898-0fd0f4c33239/mzaf_2016194327757534460.plus.aac.p.m4a", 
+            "name": "The Stroll", 
+            "number": 6
+        }, 
+        {
+            "duration": "02:26", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/50/4e/a8/504ea8a9-76b2-d400-f918-4d230e853e43/mzaf_2249558992265116833.plus.aac.p.m4a", 
+            "name": "Come Softly to Me", 
+            "number": 7
+        }, 
+        {
+            "duration": "02:23", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/40/a4/3c/40a43ca8-7ae5-476e-eb5e-0f8a6d2a4ba7/mzaf_2948567589463073900.plus.aac.p.m4a", 
+            "name": "Just a Dream", 
+            "number": 8
+        }, 
+        {
+            "duration": "02:31", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/ea/b0/87/eab08757-dcc3-3066-b15a-d097be687586/mzaf_8643709076271244227.plus.aac.p.m4a", 
+            "name": "Maybe", 
+            "number": 9
+        }, 
+        {
+            "duration": "02:36", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/3e/8a/36/3e8a36c6-e43d-4380-e31f-4efa963ace3b/mzaf_7497075785724890671.plus.aac.p.m4a", 
+            "name": "At the Hop", 
+            "number": 10
+        }, 
+        {
+            "duration": "02:30", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/ea/a0/38/eaa038eb-8df6-aeca-b555-b1fbd18483ae/mzaf_9215774994685720087.plus.aac.p.m4a", 
+            "name": "Rockin' Robin", 
+            "number": 11
+        }, 
+        {
+            "duration": "02:53", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/db/bb/77/dbbb7777-dee6-f960-0b25-3569d6f97852/mzaf_7235269095636579297.plus.aac.p.m4a", 
+            "name": "My Special Angel", 
+            "number": 12
+        }, 
+        {
+            "duration": "02:02", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/be/e7/85/bee78597-c759-4b41-8138-f5113ce89707/mzaf_8701073939825405717.plus.aac.p.m4a", 
+            "name": "Long Tall Sally", 
+            "number": 13
+        }, 
+        {
+            "duration": "02:52", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/c9/4c/83/c94c8329-720e-ffc1-a850-f7ee6afc83a1/mzaf_1026017069184130602.plus.aac.p.m4a", 
+            "name": "Chanson d'Amour", 
+            "number": 14
+        }, 
+        {
+            "duration": "02:32", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/ea/60/c7/ea60c7b9-d3b3-9029-10b8-ed42128917ae/mzaf_4107834241304688923.plus.aac.p.m4a", 
+            "name": "Hushabye", 
+            "number": 15
+        }, 
+        {
+            "duration": "02:44", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/f0/88/7d/f0887dcc-49ff-cdfc-982c-4b58bcdb43ac/mzaf_1111753221491537655.plus.aac.p.m4a", 
+            "name": "Along Came Jones", 
+            "number": 16
+        }, 
+        {
+            "duration": "02:27", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/c2/4a/37/c24a372e-ab6b-ab21-eb1f-cd7b04f083eb/mzaf_3406907276334882407.plus.aac.p.m4a", 
+            "name": "Sorry (I Ran All the Way Home) [Re-Recorded]", 
+            "number": 17
+        }, 
+        {
+            "duration": "02:49", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/4c/f8/d0/4cf8d03b-c431-dc9f-6a57-ec16da8c1f3c/mzaf_1226048525039121504.plus.aac.p.m4a", 
+            "name": "Sh-Boom", 
+            "number": 18
+        }, 
+        {
+            "duration": "02:15", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/8e/80/17/8e801757-d1e5-27ad-e6d0-40ada43c5a37/mzaf_8994654501922409498.plus.aac.p.m4a", 
+            "name": "Mr. Lee", 
+            "number": 19
+        }, 
+        {
+            "duration": "02:22", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/e3/e7/af/e3e7af51-32e8-568b-2a92-b085efc5b465/mzaf_3097986600445841978.plus.aac.p.m4a", 
+            "name": "Teen Beat", 
+            "number": 20
+        }
+    ], 
+    "id": 18399199
+}

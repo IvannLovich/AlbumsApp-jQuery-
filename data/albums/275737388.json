@@ -1,0 +1,99 @@
+{
+    "genres": [
+        "Hip-Hop/Rap"
+    ], 
+    "name": "Self-Made", 
+    "artist": {
+        "id": 72388465, 
+        "name": "Rocko"
+    }, 
+    "release_date": "2008-01-01T08:00:00Z", 
+    "thumbnail": "http://is1.mzstatic.com/image/thumb/Music/v4/66/33/08/66330842-99e6-5391-f7f6-38b1d9b90d68/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "03:45", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/5f/6d/26/mzm.fsxmoptl.aac.p.m4a", 
+            "name": "Dis Morning", 
+            "number": 1
+        }, 
+        {
+            "duration": "03:50", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/cf/97/2a/mzm.fxwttiwg.aac.p.m4a", 
+            "name": "Umma Do Me", 
+            "number": 2
+        }, 
+        {
+            "duration": "04:30", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/81/1c/00/mzm.jfxxweey.aac.p.m4a", 
+            "name": "Hustle Fo (feat. Lloyd)", 
+            "number": 3
+        }, 
+        {
+            "duration": "02:57", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/2d/6c/a2/mzm.xktareyk.aac.p.m4a", 
+            "name": "Busy", 
+            "number": 4
+        }, 
+        {
+            "duration": "03:50", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/76/71/2b/mzm.mlhbrauv.aac.p.m4a", 
+            "name": "Tomorrow", 
+            "number": 5
+        }, 
+        {
+            "duration": "04:09", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/fd/7e/ad/mzm.oaylnfoo.aac.p.m4a", 
+            "name": "Old Skool", 
+            "number": 6
+        }, 
+        {
+            "duration": "04:00", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/82/05/87/mzm.seewcdtn.aac.p.m4a", 
+            "name": "Priceless", 
+            "number": 7
+        }, 
+        {
+            "duration": "04:08", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/b1/5f/a0/mzm.acmmpxfm.aac.p.m4a", 
+            "name": "Like This Here", 
+            "number": 8
+        }, 
+        {
+            "duration": "04:17", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/49/a6/87/mzm.obgpdpqh.aac.p.m4a", 
+            "name": "That's My Money", 
+            "number": 9
+        }, 
+        {
+            "duration": "04:17", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/62/4d/f2/mzm.kgukfqsa.aac.p.m4a", 
+            "name": "She Can Get It", 
+            "number": 10
+        }, 
+        {
+            "duration": "04:24", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/ee/38/e4/mzm.zzledokx.aac.p.m4a", 
+            "name": "Snakes", 
+            "number": 11
+        }, 
+        {
+            "duration": "04:26", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/66/6d/53/mzm.ritcsaso.aac.p.m4a", 
+            "name": "Meal", 
+            "number": 12
+        }, 
+        {
+            "duration": "04:30", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/9c/51/35/mzm.eszirwnb.aac.p.m4a", 
+            "name": "Thugs Need Love Too (feat. Monica)", 
+            "number": 13
+        }, 
+        {
+            "duration": "04:42", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/12/44/ed/mzm.xvmwxger.aac.p.m4a", 
+            "name": "Karma", 
+            "number": 14
+        }
+    ], 
+    "id": 275737388
+}

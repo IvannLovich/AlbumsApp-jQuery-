@@ -1,0 +1,99 @@
+{
+    "genres": [
+        "Rock"
+    ], 
+    "name": "The History of Rock", 
+    "artist": {
+        "id": 252399, 
+        "name": "Kid Rock"
+    }, 
+    "release_date": "2000-05-23T07:00:00Z", 
+    "thumbnail": "http://is5.mzstatic.com/image/thumb/Music/v4/e0/42/35/e0423527-27ce-5f38-075a-8b594022f8b1/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "01:07", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/73/9a/5f/739a5f2d-ff61-3e75-4ec7-d2dccaaa8dd6/mzaf_3232936129681064729.plus.aac.p.m4a", 
+            "name": "Intro", 
+            "number": 1
+        }, 
+        {
+            "duration": "04:33", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/49/70/e6/4970e66b-4036-2ea0-c88d-fec97864ac3c/mzaf_190301572244852397.plus.aac.p.m4a", 
+            "name": "American Bad Ass", 
+            "number": 2
+        }, 
+        {
+            "duration": "06:41", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/e6/fa/4c/e6fa4cea-7183-bc96-42ee-399765b84234/mzaf_5289254027730885509.plus.aac.p.m4a", 
+            "name": "Prodigal Son", 
+            "number": 3
+        }, 
+        {
+            "duration": "04:45", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/a6/51/45/a6514505-c7d1-a992-8a3d-3cb0182b5838/mzaf_2396675187385284210.plus.aac.p.m4a", 
+            "name": "Paid", 
+            "number": 4
+        }, 
+        {
+            "duration": "07:15", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/ee/84/28/ee8428c1-4616-042a-94c6-3568688a9042/mzaf_3198434585671854048.plus.aac.p.m4a", 
+            "name": "Early Mornin' Stoned Pimp (feat. Joe C. & Tino)", 
+            "number": 5
+        }, 
+        {
+            "duration": "04:56", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/a7/2a/0a/a72a0aa9-ca35-ce80-8a35-5a0505b87e2c/mzaf_4818808698659817244.plus.aac.p.m4a", 
+            "name": "Dark & Grey", 
+            "number": 6
+        }, 
+        {
+            "duration": "03:59", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/49/a8/06/49a80612-74be-1a68-fb42-512d12c83b1c/mzaf_7771816838501963086.plus.aac.p.m4a", 
+            "name": "3 Sheets to the Wind (What's My Name)", 
+            "number": 7
+        }, 
+        {
+            "duration": "04:29", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/e4/8a/5d/e48a5d8e-0b40-1a39-9f5b-5ca87625c107/mzaf_6289044490673180171.plus.aac.p.m4a", 
+            "name": "Abortion", 
+            "number": 8
+        }, 
+        {
+            "duration": "05:28", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/36/c4/30/36c43092-e7ee-e4e7-c51c-204906aa558d/mzaf_4021908114788044537.plus.aac.p.m4a", 
+            "name": "I Wanna Go Back", 
+            "number": 9
+        }, 
+        {
+            "duration": "03:54", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/bb/d6/55/bbd655b7-0f67-16d9-d3bd-4ab56016929f/mzaf_4246567726323904460.plus.aac.p.m4a", 
+            "name": "Ya' Keep On", 
+            "number": 10
+        }, 
+        {
+            "duration": "03:42", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/4f/23/52/4f2352ae-66ac-b1ee-47ca-0b62c1bf3d72/mzaf_3476696757282670048.plus.aac.p.m4a", 
+            "name": "F*ck That", 
+            "number": 11
+        }, 
+        {
+            "duration": "03:57", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/c2/22/52/c2225212-0aa6-e180-eddd-8a94485e8620/mzaf_2227167292536376568.plus.aac.p.m4a", 
+            "name": "F*ck You Blind", 
+            "number": 12
+        }, 
+        {
+            "duration": "01:42", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/09/d1/45/09d145a8-bd09-f92e-3ea4-837969778720/mzaf_7607287890810998754.plus.aac.p.m4a", 
+            "name": "Born 2 B a Hick", 
+            "number": 13
+        }, 
+        {
+            "duration": "08:19", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/fc/18/ac/fc18ac8e-c859-fb85-f79d-f22b57372342/mzaf_8828184824975664165.plus.aac.p.m4a", 
+            "name": "My Oedipus Complex (feat. Twisted Brown Trucker)", 
+            "number": 14
+        }
+    ], 
+    "id": 586858476
+}

@@ -1,0 +1,141 @@
+{
+    "genres": [
+        "Rock"
+    ], 
+    "name": "21 Classic Rock Favorites", 
+    "artist": {
+        "id": 80204262, 
+        "name": "Various Artists"
+    }, 
+    "release_date": "2014-06-10T07:00:00Z", 
+    "thumbnail": "http://is3.mzstatic.com/image/thumb/Music7/v4/13/c8/dd/13c8ddaa-0942-72cb-6611-b32b5523796c/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "04:22", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/6f/04/0b/6f040b10-84b2-0009-ec4c-db6fd1e265b8/mzaf_6711284712239466376.plus.aac.p.m4a", 
+            "name": "Barracuda", 
+            "number": 1
+        }, 
+        {
+            "duration": "05:23", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/d8/fd/c1/d8fdc13f-6965-0dc7-9ca7-eab0e6936f85/mzaf_8808209194058553379.plus.aac.p.m4a", 
+            "name": "Carry on Wayward Son", 
+            "number": 2
+        }, 
+        {
+            "duration": "03:08", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music4/v4/fd/2b/27/fd2b2704-aec9-3c86-18db-5997249cdc05/mzaf_8676466232843415780.plus.aac.p.m4a", 
+            "name": "Free Ride", 
+            "number": 3
+        }, 
+        {
+            "duration": "03:32", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music1/v4/4b/9e/2c/4b9e2cd2-55a1-6c47-d54a-e01f257f0030/mzaf_474865168954234784.plus.aac.p.m4a", 
+            "name": "Baby Hold On", 
+            "number": 4
+        }, 
+        {
+            "duration": "04:46", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/93/cb/f7/93cbf77b-ff44-fb3f-e725-765f639dccfd/mzaf_743688254093728278.plus.aac.p.m4a", 
+            "name": "More Than a Feeling", 
+            "number": 5
+        }, 
+        {
+            "duration": "03:42", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music4/v4/b7/f2/e6/b7f2e6c5-9f5e-f84d-97c2-1574a398c156/mzaf_431326321401636320.plus.aac.p.m4a", 
+            "name": "Rock and Roll, Hoochie Koo", 
+            "number": 6
+        }, 
+        {
+            "duration": "02:32", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/df/3e/26/df3e26cc-27c8-5e92-6a60-da7202b7b35e/mzaf_2494423566664289025.plus.aac.p.m4a", 
+            "name": "Mississippi Queen", 
+            "number": 7
+        }, 
+        {
+            "duration": "05:09", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/fb/02/8d/fb028de9-be2b-844d-04c5-5a3ab0782b55/mzaf_3128631073540598143.plus.aac.p.m4a", 
+            "name": "(Don't Fear) The Reaper", 
+            "number": 8
+        }, 
+        {
+            "duration": "03:31", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/82/53/9f/82539f7b-a518-ddbd-372b-6f5d9bef9ee3/mzaf_4111544410321591857.plus.aac.p.m4a", 
+            "name": "All the Young Dudes", 
+            "number": 9
+        }, 
+        {
+            "duration": "04:12", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/36/5a/f6/365af605-6d36-1208-cb5b-aabac226c37a/mzaf_1141242347115215973.plus.aac.p.m4a", 
+            "name": "Walk on the Wild Side", 
+            "number": 10
+        }, 
+        {
+            "duration": "05:21", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/0f/00/cd/0f00cdeb-7d28-a87b-8987-53eea5ff872c/mzaf_5765624355604992738.plus.aac.p.m4a", 
+            "name": "Black Magic Woman / Gypsy Queen", 
+            "number": 11
+        }, 
+        {
+            "duration": "04:54", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/57/d1/e2/57d1e242-7371-85d2-cfbb-0263d05efde6/mzaf_1378741616085468527.plus.aac.p.m4a", 
+            "name": "Can't Fight This Feeling", 
+            "number": 12
+        }, 
+        {
+            "duration": "03:46", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/b5/6f/ac/b56fac6a-6101-8080-a08f-1652d8b0130e/mzaf_6914647324009812373.plus.aac.p.m4a", 
+            "name": "867-5309 / Jenny", 
+            "number": 13
+        }, 
+        {
+            "duration": "02:56", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/06/9a/18/069a18c6-6d45-6a57-5b27-34d19c65700f/mzaf_1391245325038124188.plus.aac.p.m4a", 
+            "name": "What I Like About You", 
+            "number": 14
+        }, 
+        {
+            "duration": "03:44", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music4/v4/48/bb/3c/48bb3c09-b2bb-5780-35be-1aa3f6e25d06/mzaf_7857229964332021470.plus.aac.p.m4a", 
+            "name": "I Want You to Want Me", 
+            "number": 15
+        }, 
+        {
+            "duration": "08:23", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music6/v4/66/17/cb/6617cbd0-243c-e48b-a4bd-52a1e51d19e7/mzaf_7520261405208451979.plus.aac.p.m4a", 
+            "name": "Stranglehold", 
+            "number": 16
+        }, 
+        {
+            "duration": "04:51", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music4/v4/7c/0b/df/7c0bdf07-8a12-afe7-d67b-d1767c2f13fa/mzaf_8189136624929829544.plus.aac.p.m4a", 
+            "name": "Cum on Feel the Noize", 
+            "number": 17
+        }, 
+        {
+            "duration": "03:58", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/55/bc/34/55bc3409-aba9-1c44-069d-dc68ac7d29f8/mzaf_1903049354075122186.plus.aac.p.m4a", 
+            "name": "Black Betty", 
+            "number": 18
+        }, 
+        {
+            "duration": "05:00", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/f2/50/3b/f2503b7d-71e1-edcb-1a79-cc2d5268ac99/mzaf_3035770901080923624.plus.aac.p.m4a", 
+            "name": "Flirtin' with Disaster", 
+            "number": 19
+        }, 
+        {
+            "duration": "08:29", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/dd/1b/26/dd1b269b-b993-0c07-8454-b2f01237d188/mzaf_8582284837798517627.plus.aac.p.m4a", 
+            "name": "Paradise by the Dashboard Light", 
+            "number": 20
+        }, 
+        {
+            "duration": "03:11", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/3f/2a/71/3f2a7110-cce8-d7a6-e221-44f0a878f594/mzaf_7444959942796671410.plus.aac.p.m4a", 
+            "name": "Lights", 
+            "number": 21
+        }
+    ], 
+    "id": 882856383
+}

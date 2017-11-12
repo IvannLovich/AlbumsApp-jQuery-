@@ -1,0 +1,99 @@
+{
+    "genres": [
+        "Hip-Hop/Rap"
+    ], 
+    "name": "Crunk Rock", 
+    "artist": {
+        "id": 1869683, 
+        "name": "Lil Jon"
+    }, 
+    "release_date": "2010-01-01T08:00:00Z", 
+    "thumbnail": "http://is4.mzstatic.com/image/thumb/Music/v4/8c/a8/c8/8ca8c806-48f5-8b2a-85c6-1e760ac84cc6/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "00:49", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/76/dd/04/mzm.qqxwzkig.aac.p.m4a", 
+            "name": "Crunk Rock", 
+            "number": 1
+        }, 
+        {
+            "duration": "05:14", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/f0/83/1e/mzm.cnqdsgej.aac.p.m4a", 
+            "name": "Throw It Up, Pt. 2", 
+            "number": 2
+        }, 
+        {
+            "duration": "03:35", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/7d/26/44/mzm.ibpoqpqg.aac.p.m4a", 
+            "name": "G Walk", 
+            "number": 3
+        }, 
+        {
+            "duration": "04:18", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/c4/8c/85/mzm.vrpcyisv.aac.p.m4a", 
+            "name": "On de Grind", 
+            "number": 4
+        }, 
+        {
+            "duration": "00:32", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/07/85/87/mzm.ueciijmk.aac.p.m4a", 
+            "name": "What Is Crunk Rock?", 
+            "number": 5
+        }, 
+        {
+            "duration": "03:45", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/96/b9/cf/mzm.silpzxbk.aac.p.m4a", 
+            "name": "Killas", 
+            "number": 6
+        }, 
+        {
+            "duration": "04:26", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/12/73/a1/mzm.cnwxupkz.aac.p.m4a", 
+            "name": "Get In Get Out", 
+            "number": 7
+        }, 
+        {
+            "duration": "04:10", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/f7/59/2a/mzm.zpfpgqnv.aac.p.m4a", 
+            "name": "Outta Your Mind", 
+            "number": 8
+        }, 
+        {
+            "duration": "03:50", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/1c/c0/6e/mzm.bsrvnolw.aac.p.m4a", 
+            "name": "Ride da D", 
+            "number": 9
+        }, 
+        {
+            "duration": "03:19", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/68/67/e0/mzm.kgrnnqnf.aac.p.m4a", 
+            "name": "Ms. Chocolate", 
+            "number": 10
+        }, 
+        {
+            "duration": "03:32", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/fb/ed/50/mzm.exfokcbc.aac.p.m4a", 
+            "name": "Like a Stripper", 
+            "number": 11
+        }, 
+        {
+            "duration": "03:38", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/c2/c9/85/mzm.gkyzzgkk.aac.p.m4a", 
+            "name": "Shots", 
+            "number": 12
+        }, 
+        {
+            "duration": "03:44", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/77/40/4f/mzm.sfzdamba.aac.p.m4a", 
+            "name": "Work It Out", 
+            "number": 13
+        }, 
+        {
+            "duration": "03:35", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/3b/09/aa/mzm.ohcpisfk.aac.p.m4a", 
+            "name": "Hey", 
+            "number": 14
+        }
+    ], 
+    "id": 375170095
+}

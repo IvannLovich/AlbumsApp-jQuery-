@@ -1,0 +1,141 @@
+{
+    "genres": [
+        "Rock"
+    ], 
+    "name": "Hot Rocks 1964-1971", 
+    "artist": {
+        "id": 1249595, 
+        "name": "The Rolling Stones"
+    }, 
+    "release_date": "1972-01-11T08:00:00Z", 
+    "thumbnail": "http://is5.mzstatic.com/image/thumb/Music/v4/ea/34/5a/ea345a2e-03ae-b42e-b710-9592b7deaea1/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "03:00", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music6/v4/0a/2c/03/0a2c0396-2807-bb49-00c5-e7cafaa8eed7/mzaf_3792117844238068873.plus.aac.p.m4a", 
+            "name": "Time Is On My Side", 
+            "number": 1
+        }, 
+        {
+            "duration": "02:50", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music6/v4/1c/5c/05/1c5c0584-da3c-7636-9588-43ce59ae668e/mzaf_1506493031316412362.plus.aac.p.m4a", 
+            "name": "Heart of Stone", 
+            "number": 2
+        }, 
+        {
+            "duration": "02:16", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music6/v4/04/01/2a/04012a1f-960c-c36b-a993-ad3d30b79983/mzaf_2704665157373354970.plus.aac.p.m4a", 
+            "name": "Play With Fire", 
+            "number": 3
+        }, 
+        {
+            "duration": "03:44", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music4/v4/b8/06/0b/b8060b49-e073-a40b-75e0-f4c1a4dbc18b/mzaf_5475142113743428114.plus.aac.p.m4a", 
+            "name": "(I Can't Get No) Satisfaction", 
+            "number": 4
+        }, 
+        {
+            "duration": "02:47", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/37/b8/e5/37b8e522-1851-d9a2-ee40-6e98afcfa8e9/mzaf_4172517121797673501.plus.aac.p.m4a", 
+            "name": "As Tears Go By", 
+            "number": 5
+        }, 
+        {
+            "duration": "02:56", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music6/v4/2b/42/be/2b42bed1-ea86-a483-33a4-2c0251b9067d/mzaf_6131688632381695849.plus.aac.p.m4a", 
+            "name": "Get Off of My Cloud", 
+            "number": 6
+        }, 
+        {
+            "duration": "02:47", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/97/66/5d/97665da6-2751-8844-440e-ae0157c53e8e/mzaf_1313838074241436771.plus.aac.p.m4a", 
+            "name": "Mother's Little Helper", 
+            "number": 7
+        }, 
+        {
+            "duration": "03:58", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/10/3a/7f/103a7f8b-1a76-2c77-a697-56ce087fcee6/mzaf_2461183287442971105.plus.aac.p.m4a", 
+            "name": "19th Nervous Breakdown", 
+            "number": 8
+        }, 
+        {
+            "duration": "03:24", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview19/v4/97/af/52/97af5293-273a-394a-ef8a-33a47187f697/mzaf_4876608701829245057.plus.aac.p.m4a", 
+            "name": "Paint It Black", 
+            "number": 9
+        }, 
+        {
+            "duration": "03:44", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music6/v4/c5/bb/ed/c5bbed1e-0405-d0b2-1b99-f8f1cd91f44e/mzaf_6470053878606092377.plus.aac.p.m4a", 
+            "name": "Under My Thumb", 
+            "number": 10
+        }, 
+        {
+            "duration": "03:15", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music6/v4/5f/fa/bb/5ffabbe9-1406-4a17-2ab1-af40e77b2da0/mzaf_2186779827896109808.plus.aac.p.m4a", 
+            "name": "Ruby Tuesday", 
+            "number": 11
+        }, 
+        {
+            "duration": "03:36", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music4/v4/a6/25/10/a6251061-a161-a2ae-82fe-b308f59a32ec/mzaf_6203606919082823203.plus.aac.p.m4a", 
+            "name": "Let's Spend the Night Together", 
+            "number": 12
+        }, 
+        {
+            "duration": "03:43", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music6/v4/0a/d8/d5/0ad8d55e-20ed-4eca-68ef-3c57dd900dab/mzaf_6460617641119099220.plus.aac.p.m4a", 
+            "name": "Jumpin' Jack Flash", 
+            "number": 1
+        }, 
+        {
+            "duration": "03:15", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music6/v4/c4/3e/aa/c43eaa50-3082-8e8f-2bda-33183cad50d3/mzaf_8567906751997201894.plus.aac.p.m4a", 
+            "name": "Street Fighting Man", 
+            "number": 2
+        }, 
+        {
+            "duration": "06:18", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music4/v4/4a/bb/90/4abb90d5-5a25-ecd5-8a6e-6a6e490577de/mzaf_7586921475658281513.plus.aac.p.m4a", 
+            "name": "Sympathy for the Devil", 
+            "number": 3
+        }, 
+        {
+            "duration": "03:02", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music4/v4/a0/86/cc/a086cc83-3049-8d6b-91dd-9c87f3fdff1f/mzaf_9171200937641023897.plus.aac.p.m4a", 
+            "name": "Honky Tonk Women", 
+            "number": 4
+        }, 
+        {
+            "duration": "04:32", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music6/v4/64/5e/ff/645effdf-921c-0f9f-f50b-f708f455d93d/mzaf_5526074361534907844.plus.aac.p.m4a", 
+            "name": "Gimme Shelter", 
+            "number": 5
+        }, 
+        {
+            "duration": "09:12", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music6/v4/42/67/86/42678624-2e6f-0fe1-3fe1-c096883bfa19/mzaf_2045722856978075483.plus.aac.p.m4a", 
+            "name": "Midnight Rambler", 
+            "number": 6
+        }, 
+        {
+            "duration": "07:29", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/ec/7c/5a/ec7c5a1e-0159-6f0d-b1dc-b0de6b31a1e5/mzaf_8516507264601676406.plus.aac.p.m4a", 
+            "name": "You Can't Always Get What You Want", 
+            "number": 7
+        }, 
+        {
+            "duration": "03:49", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music4/v4/b7/74/bf/b774bf34-5016-b3d7-fbc5-5642b68f1dae/mzaf_5289287142892036790.plus.aac.p.m4a", 
+            "name": "Brown Sugar", 
+            "number": 8
+        }, 
+        {
+            "duration": "05:43", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/f4/90/c8/f490c8c7-7120-9296-85f4-45ebabe6d9f4/mzaf_7119136629693975484.plus.aac.p.m4a", 
+            "name": "Wild Horses", 
+            "number": 9
+        }
+    ], 
+    "id": 656801179
+}

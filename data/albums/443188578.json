@@ -1,0 +1,51 @@
+{
+    "genres": [
+        "Dance"
+    ], 
+    "name": "Party Rock Anthem (Remixes) [feat. Lauren Bennett & GoonRock]", 
+    "artist": {
+        "id": 284482668, 
+        "name": "LMFAO"
+    }, 
+    "release_date": "2011-01-01T08:00:00Z", 
+    "thumbnail": "http://is4.mzstatic.com/image/thumb/Music/v4/ae/ff/6b/aeff6be4-9cd5-b788-d3ba-f4035366a1a3/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "04:50", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/88/f9/48/mzm.dhpnluux.aac.p.m4a", 
+            "name": "Party Rock Anthem (feat. Lauren Bennett & GoonRock)", 
+            "number": 1
+        }, 
+        {
+            "duration": "04:36", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/19/97/3a/mzm.vmtskbvu.aac.p.m4a", 
+            "name": "Party Rock Anthem (feat. Lauren Bennett & GoonRock)", 
+            "number": 2
+        }, 
+        {
+            "duration": "06:49", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/0a/84/36/mzm.tyrcoqgz.aac.p.m4a", 
+            "name": "Party Rock Anthem (feat. Lauren Bennett & GoonRock)", 
+            "number": 3
+        }, 
+        {
+            "duration": "04:02", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/fc/3a/88/mzm.mlwojstn.aac.p.m4a", 
+            "name": "Party Rock Anthem (feat. Lauren Bennett & GoonRock)", 
+            "number": 4
+        }, 
+        {
+            "duration": "06:24", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/b4/f6/54/mzm.zxnqdfdp.aac.p.m4a", 
+            "name": "Party Rock Anthem (feat. Lauren Bennett & GoonRock)", 
+            "number": 5
+        }, 
+        {
+            "duration": "07:09", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/c1/c1/ff/mzm.yizmrskc.aac.p.m4a", 
+            "name": "Party Rock Anthem (feat. Lauren Bennett & GoonRock)", 
+            "number": 6
+        }
+    ], 
+    "id": 443188578
+}

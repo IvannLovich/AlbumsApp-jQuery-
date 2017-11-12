@@ -1,0 +1,87 @@
+{
+    "genres": [
+        "Rock"
+    ], 
+    "name": "Rock N Roll Jesus", 
+    "artist": {
+        "id": 252399, 
+        "name": "Kid Rock"
+    }, 
+    "release_date": "2007-10-09T07:00:00Z", 
+    "thumbnail": "http://is4.mzstatic.com/image/thumb/Music/v4/ff/1f/b5/ff1fb544-7275-1de2-8ccf-1386fb5e1733/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "04:29", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/55/d0/6d/55d06d4a-62bf-ea7d-061b-be55f3f38d8a/mzaf_2998337130622491638.plus.aac.p.m4a", 
+            "name": "Rock N Roll Jesus", 
+            "number": 1
+        }, 
+        {
+            "duration": "04:40", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/a8/10/7d/a8107d6d-ea61-7748-9c88-b25861b05683/mzaf_8835822644309230573.plus.aac.p.m4a", 
+            "name": "Amen", 
+            "number": 2
+        }, 
+        {
+            "duration": "04:56", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/12/f8/e9/12f8e9ab-c4aa-2f5d-0dd9-d71c6f472e40/mzaf_850692621103950424.plus.aac.p.m4a", 
+            "name": "All Summer Long", 
+            "number": 3
+        }, 
+        {
+            "duration": "06:12", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/e3/66/0d/e3660db7-af86-eb5b-af4e-0f5c52d664ae/mzaf_6927075159096255974.plus.aac.p.m4a", 
+            "name": "Roll On", 
+            "number": 4
+        }, 
+        {
+            "duration": "04:06", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/75/9a/22/759a22ad-1075-9478-27c9-29f4f06d757d/mzaf_890336366761912078.plus.aac.p.m4a", 
+            "name": "So Hott", 
+            "number": 5
+        }, 
+        {
+            "duration": "03:45", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/1f/ac/46/1fac46ca-d10d-f57d-7733-fda87cd698b5/mzaf_4697965817729010659.plus.aac.p.m4a", 
+            "name": "Sugar", 
+            "number": 6
+        }, 
+        {
+            "duration": "05:40", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/08/8f/60/088f6092-04f3-ae21-16be-1d6b14e186aa/mzaf_116204777297786151.plus.aac.p.m4a", 
+            "name": "When U Love Someone", 
+            "number": 7
+        }, 
+        {
+            "duration": "06:36", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/a3/43/c2/a343c259-5127-8cb2-9565-f427caeb4992/mzaf_8476432867967121332.plus.aac.p.m4a", 
+            "name": "New Orleans", 
+            "number": 8
+        }, 
+        {
+            "duration": "04:20", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/69/e7/4a/69e74a34-bafd-8ca1-5e96-8871195bb98a/mzaf_8846805589891895420.plus.aac.p.m4a", 
+            "name": "Don't Tell Me U Love Me", 
+            "number": 9
+        }, 
+        {
+            "duration": "04:35", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/d2/6f/b9/d26fb9b3-4255-dbc9-2c4a-be4c4da9a730/mzaf_5791294447246744823.plus.aac.p.m4a", 
+            "name": "Blue Jeans and a Rosary", 
+            "number": 10
+        }, 
+        {
+            "duration": "03:46", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/9f/7e/7e/9f7e7e22-6810-8c8e-7cb0-4899262d3c60/mzaf_5904104028741429788.plus.aac.p.m4a", 
+            "name": "Half Your Age", 
+            "number": 11
+        }, 
+        {
+            "duration": "04:05", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/9a/8b/23/9a8b2336-ff4f-2ab1-6aab-a5dbcee6ff0c/mzaf_8528494011688584966.plus.aac.p.m4a", 
+            "name": "Lowlife (Living the Highlife)", 
+            "number": 12
+        }
+    ], 
+    "id": 586705153
+}

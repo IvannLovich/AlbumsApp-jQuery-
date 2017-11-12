@@ -1,0 +1,165 @@
+{
+    "genres": [
+        "Comedy"
+    ], 
+    "name": "Never Scared", 
+    "artist": {
+        "id": 163676, 
+        "name": "Chris Rock"
+    }, 
+    "release_date": "2005-02-01T08:00:00Z", 
+    "thumbnail": "http://is4.mzstatic.com/image/thumb/Music18/v4/54/60/71/54607156-24dd-396b-218b-e27b3932b4d5/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "00:25", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview30/v4/bf/63/68/bf636873-30a0-9ab8-4922-1a8d8f0f2bce/mzaf_7930001339185635281.plus.aac.p.m4a", 
+            "name": "Thug Radio Intro", 
+            "number": 1
+        }, 
+        {
+            "duration": "05:57", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview60/v4/8d/49/7a/8d497a4d-6315-1b50-c891-b250733c27cd/mzaf_1917955329876819670.plus.aac.p.m4a", 
+            "name": "Off the Pole", 
+            "number": 2
+        }, 
+        {
+            "duration": "01:02", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview20/v4/bc/a8/df/bca8df94-a722-5ddf-0af1-8b79adee8490/mzaf_2138139772356429446.plus.aac.p.m4a", 
+            "name": "Real People of Ignorance (Rap Star)", 
+            "number": 3
+        }, 
+        {
+            "duration": "09:25", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview60/v4/d6/53/6a/d6536a34-7b55-8113-614e-648019800ecb/mzaf_5070970576991329823.plus.aac.p.m4a", 
+            "name": "Rap Standup", 
+            "number": 4
+        }, 
+        {
+            "duration": "00:12", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview60/v4/8a/c5/2c/8ac52c1a-09ac-54e7-dc6a-ec15474a0b85/mzaf_9129680385240202228.plus.aac.p.m4a", 
+            "name": "K-Rock", 
+            "number": 5
+        }, 
+        {
+            "duration": "02:38", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview18/v4/13/e2/bf/13e2bf88-c344-31fb-c5a4-c8d699fe5c27/mzaf_5909650516702750543.plus.aac.p.m4a", 
+            "name": "Get Lower (feat. Lil Jon)", 
+            "number": 6
+        }, 
+        {
+            "duration": "10:05", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview20/v4/03/9a/7e/039a7e87-5ebb-7bb2-5b4d-c1cead85b985/mzaf_2433035308176676628.plus.aac.p.m4a", 
+            "name": "Jacksons Gone Wild", 
+            "number": 7
+        }, 
+        {
+            "duration": "00:34", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview20/v4/d0/43/08/d043081a-7d85-8470-40ca-e39ceaca07aa/mzaf_3625037413307600275.plus.aac.p.m4a", 
+            "name": "Thug News (feat. D.O. the Barber, Mr. Dead & Eric Edwards)", 
+            "number": 8
+        }, 
+        {
+            "duration": "01:19", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview60/v4/00/d7/b0/00d7b0bf-27a6-db4b-beb9-abddd00f2d32/mzaf_6347761555931996533.plus.aac.p.m4a", 
+            "name": "Tip Your Hat to Whitey (Pineapples) [feat. Mario Joyner]", 
+            "number": 9
+        }, 
+        {
+            "duration": "03:01", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview20/v4/dc/ba/f9/dcbaf9f2-43a4-b311-ed0d-cfe30e17e890/mzaf_722287471981676506.plus.aac.p.m4a", 
+            "name": "The War", 
+            "number": 10
+        }, 
+        {
+            "duration": "01:48", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview18/v4/47/ca/26/47ca2672-f29e-d1e1-1b03-354a11fcc11f/mzaf_3977133547853853373.plus.aac.p.m4a", 
+            "name": "Black Poet (feat. Ali LeRoi, Mario Joyner & W. Ellington Felton)", 
+            "number": 11
+        }, 
+        {
+            "duration": "01:38", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview18/v4/b1/f2/ae/b1f2ae3b-353b-acc9-5004-e961a84b5a05/mzaf_4174908276241012578.plus.aac.p.m4a", 
+            "name": "Feed Other Countries", 
+            "number": 12
+        }, 
+        {
+            "duration": "00:38", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview18/v4/2b/64/cd/2b64cde8-5c1d-36b5-7e89-4601c565d1d6/mzaf_6640292315806055049.plus.aac.p.m4a", 
+            "name": "Ballmart", 
+            "number": 13
+        }, 
+        {
+            "duration": "09:42", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview20/v4/15/4d/9a/154d9a42-d63d-731a-0d25-7c132670a406/mzaf_7072852781337604341.plus.aac.p.m4a", 
+            "name": "Drugs, Donuts and Wealth", 
+            "number": 14
+        }, 
+        {
+            "duration": "00:10", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview18/v4/a5/2c/fc/a52cfcd0-a160-3bd2-4e71-931dbe0da025/mzaf_8732782800588587090.plus.aac.p.m4a", 
+            "name": "Thug Radio ID", 
+            "number": 15
+        }, 
+        {
+            "duration": "01:33", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview20/v4/02/58/3c/02583c85-6c94-1cb4-d4c6-9ee319a57f34/mzaf_3772414943116237202.plus.aac.p.m4a", 
+            "name": "Tip Your Hat to Whitey (Sugar Cane) [feat. Mario Joyner]", 
+            "number": 16
+        }, 
+        {
+            "duration": "07:50", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview20/v4/d8/60/b8/d860b8ea-1247-8f35-5116-dbae742c0c53/mzaf_234653034264084557.plus.aac.p.m4a", 
+            "name": "Affirmative Action", 
+            "number": 17
+        }, 
+        {
+            "duration": "01:27", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview18/v4/40/81/f4/4081f43a-35a6-df7e-90df-f49fce05f6be/mzaf_1371466683186209425.plus.aac.p.m4a", 
+            "name": "Tip Your Hat to Whitey (Mars) [feat. Mario Joyner]", 
+            "number": 18
+        }, 
+        {
+            "duration": "01:29", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview30/v4/e6/21/a5/e621a521-5689-5657-c352-1cd312d5f178/mzaf_2621464811915455961.plus.aac.p.m4a", 
+            "name": "Don't Cheat", 
+            "number": 19
+        }, 
+        {
+            "duration": "00:21", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview18/v4/41/95/27/419527e2-be9d-5d7e-f551-33cb30fdebd0/mzaf_7435547537400882839.plus.aac.p.m4a", 
+            "name": "The Morning After", 
+            "number": 20
+        }, 
+        {
+            "duration": "01:03", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview60/v4/5e/26/35/5e2635a5-4648-0cd7-0f5f-833cd0b17885/mzaf_5341082737080296825.plus.aac.p.m4a", 
+            "name": "Real People of Ignorance (Tattoo)", 
+            "number": 21
+        }, 
+        {
+            "duration": "02:42", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview18/v4/c7/0e/60/c70e60f0-a5fb-b80a-0453-0b03c4c34053/mzaf_5487624607896837777.plus.aac.p.m4a", 
+            "name": "Women Hate Women", 
+            "number": 22
+        }, 
+        {
+            "duration": "00:05", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview20/v4/eb/4c/3e/eb4c3e0c-79ec-ba12-24ea-a2adbf57e033/mzaf_9200183312599871491.plus.aac.p.m4a", 
+            "name": "K-Rock ID #2", 
+            "number": 23
+        }, 
+        {
+            "duration": "07:42", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview30/v4/8a/3e/b6/8a3eb6c2-531f-b043-4bc5-68f6dc20fd18/mzaf_6218575922224960970.plus.aac.p.m4a", 
+            "name": "Marriage", 
+            "number": 24
+        }, 
+        {
+            "duration": "02:41", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview60/v4/78/34/4b/78344b75-10ef-8ec0-2a07-8a38d326e2c2/mzaf_6987091165579159715.plus.aac.p.m4a", 
+            "name": "Thug Radio Sign Off", 
+            "number": 25
+        }
+    ], 
+    "id": 1103997883
+}

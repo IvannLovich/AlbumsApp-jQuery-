@@ -1,0 +1,93 @@
+{
+    "genres": [
+        "Rock"
+    ], 
+    "name": "Born Free", 
+    "artist": {
+        "id": 252399, 
+        "name": "Kid Rock"
+    }, 
+    "release_date": "2010-11-15T08:00:00Z", 
+    "thumbnail": "http://is5.mzstatic.com/image/thumb/Music/v4/f3/8a/5a/f38a5ae6-18ea-5d5a-21ad-93370a760134/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "05:14", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music3/v4/5f/8e/1f/5f8e1f92-a488-d4cd-588c-3a8f5d8eb57b/mzaf_6363530765553977833.plus.aac.p.m4a", 
+            "name": "Born Free", 
+            "number": 1
+        }, 
+        {
+            "duration": "04:19", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music1/v4/68/45/eb/6845eb31-8c9d-2461-7fe5-eca6e905d4b0/mzaf_3347903124973336322.plus.aac.p.m4a", 
+            "name": "Slow My Roll", 
+            "number": 2
+        }, 
+        {
+            "duration": "04:12", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music5/v4/a2/4f/72/a24f728b-ad39-abbc-174d-271ef88869f5/mzaf_4172642070446067488.plus.aac.p.m4a", 
+            "name": "Care (feat. Martina McBride & T.I.)", 
+            "number": 3
+        }, 
+        {
+            "duration": "04:06", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music3/v4/35/3c/be/353cbeba-0b72-3795-05d7-788933c12055/mzaf_8000263050494406005.plus.aac.p.m4a", 
+            "name": "Purple Sky", 
+            "number": 4
+        }, 
+        {
+            "duration": "04:46", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music3/v4/89/d7/24/89d724a0-82ec-9d58-b976-bd3e69b4df8c/mzaf_5469260972853392872.plus.aac.p.m4a", 
+            "name": "When It Rains", 
+            "number": 5
+        }, 
+        {
+            "duration": "03:35", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music5/v4/e8/c4/33/e8c43337-cdf9-b4b4-73c0-f609d431e32b/mzaf_3885004038091455419.plus.aac.p.m4a", 
+            "name": "God Bless Saturday", 
+            "number": 6
+        }, 
+        {
+            "duration": "04:48", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music3/v4/84/f9/1f/84f91fdd-8efd-1d2b-0811-4ce83f70cf88/mzaf_2011124370439035048.plus.aac.p.m4a", 
+            "name": "Collide (feat. Sheryl Crow & Bob Seger)", 
+            "number": 7
+        }, 
+        {
+            "duration": "04:03", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music1/v4/a8/06/b3/a806b3a6-938e-6fbe-7073-c811f5d7b8a4/mzaf_8297859076162607247.plus.aac.p.m4a", 
+            "name": "Flyin' High (feat. Zac Brown)", 
+            "number": 8
+        }, 
+        {
+            "duration": "05:57", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music3/v4/e7/58/10/e7581006-912a-b387-80de-2b126c3394dc/mzaf_4986089875230516674.plus.aac.p.m4a", 
+            "name": "Times Like These", 
+            "number": 9
+        }, 
+        {
+            "duration": "05:23", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music1/v4/8a/f1/5d/8af15d58-42e1-87f6-2e73-9889a5fa11ce/mzaf_650976545852801640.plus.aac.p.m4a", 
+            "name": "Rock On", 
+            "number": 10
+        }, 
+        {
+            "duration": "03:52", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music3/v4/ac/19/e0/ac19e0cf-5f7c-a98f-3069-09f04c94a3c0/mzaf_6537249159637907049.plus.aac.p.m4a", 
+            "name": "Rock Bottom Blues", 
+            "number": 11
+        }, 
+        {
+            "duration": "05:46", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music1/v4/3c/ef/bd/3cefbdcb-9d54-acd5-8371-d86ea693badc/mzaf_8997554246294157348.plus.aac.p.m4a", 
+            "name": "For the First Time (In a Long Time)", 
+            "number": 12
+        }, 
+        {
+            "duration": "04:24", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music1/v4/de/d2/3b/ded23b9f-d27f-da00-f806-037f574c3c0b/mzaf_3335597600712130729.plus.aac.p.m4a", 
+            "name": "Care (Demo Version)", 
+            "number": 13
+        }
+    ], 
+    "id": 586705482
+}

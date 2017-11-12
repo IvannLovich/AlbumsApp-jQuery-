@@ -1,0 +1,123 @@
+{
+    "genres": [
+        "Rock"
+    ], 
+    "name": "The Best of Poison: 20 Years of Rock (Remastered)", 
+    "artist": {
+        "id": 490189, 
+        "name": "Poison"
+    }, 
+    "release_date": "2006-04-04T07:00:00Z", 
+    "thumbnail": "http://is4.mzstatic.com/image/thumb/Music7/v4/ef/36/6c/ef366cd3-a38e-fc38-4f67-67ee5f8b4f92/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "03:44", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music7/v4/37/61/35/37613594-a588-ebc2-b196-65cd800ce1d2/mzaf_3576033919752323600.plus.aac.p.m4a", 
+            "name": "Talk Dirty to Me", 
+            "number": 1
+        }, 
+        {
+            "duration": "03:05", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music5/v4/72/fe/b2/72feb2f7-923b-daf2-2572-984e6d746d4e/mzaf_4282308990401717082.plus.aac.p.m4a", 
+            "name": "I Want Action", 
+            "number": 2
+        }, 
+        {
+            "duration": "03:34", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music1/v4/7e/fb/94/7efb94b6-6bee-3790-7c0e-c263793f46ef/mzaf_7507921166113912213.plus.aac.p.m4a", 
+            "name": "I Won't Forget You", 
+            "number": 3
+        }, 
+        {
+            "duration": "03:38", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music5/v4/65/e7/af/65e7afae-3ac5-5023-0887-c9ad8b774307/mzaf_8211332469025967315.plus.aac.p.m4a", 
+            "name": "Cry Tough", 
+            "number": 4
+        }, 
+        {
+            "duration": "03:10", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music7/v4/c0/02/3c/c0023cb7-49a5-4567-4aec-e2d2bec35ae2/mzaf_7238411998724737702.plus.aac.p.m4a", 
+            "name": "Look What the Cat Dragged In", 
+            "number": 5
+        }, 
+        {
+            "duration": "03:43", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music5/v4/21/19/a8/2119a81c-20e4-3af4-0413-740acecfebbc/mzaf_3154698721158538602.plus.aac.p.m4a", 
+            "name": "Nothin' But a Good Time", 
+            "number": 6
+        }, 
+        {
+            "duration": "03:56", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music7/v4/87/2f/8a/872f8a52-8a25-a036-bf3a-8aea226fe90f/mzaf_4960205870631460836.plus.aac.p.m4a", 
+            "name": "Fallen Angel", 
+            "number": 7
+        }, 
+        {
+            "duration": "04:20", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music7/v4/4b/25/06/4b250689-e160-34f1-2bc1-d35a905d3f8e/mzaf_2744957239802409119.plus.aac.p.m4a", 
+            "name": "Every Rose Has Its Thorn", 
+            "number": 8
+        }, 
+        {
+            "duration": "03:00", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music7/v4/07/61/84/076184d6-7802-ff46-5414-ff7d950690ee/mzaf_1595899659343875182.plus.aac.p.m4a", 
+            "name": "Your Mama Don't Dance", 
+            "number": 9
+        }, 
+        {
+            "duration": "03:49", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music5/v4/fb/4e/55/fb4e55a0-c1ca-5bc1-cfef-758896d1604a/mzaf_6047529894454672131.plus.aac.p.m4a", 
+            "name": "Unskinny Bop", 
+            "number": 10
+        }, 
+        {
+            "duration": "03:35", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music5/v4/8a/4f/c8/8a4fc815-a952-226a-c090-2d5d3df2b8d7/mzaf_2338473721889081503.plus.aac.p.m4a", 
+            "name": "Rock and Roll All Nite", 
+            "number": 11
+        }, 
+        {
+            "duration": "03:53", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music7/v4/29/81/d6/2981d614-4f2c-5184-b85c-becb54b1ecf5/mzaf_8580412198251506690.plus.aac.p.m4a", 
+            "name": "Ride the Wind", 
+            "number": 12
+        }, 
+        {
+            "duration": "05:30", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music7/v4/f8/b8/a2/f8b8a2cd-cd2e-9419-c351-1f60d4127a17/mzaf_148726777191028765.plus.aac.p.m4a", 
+            "name": "Something to Believe In", 
+            "number": 13
+        }, 
+        {
+            "duration": "04:49", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music7/v4/f8/4e/c3/f84ec374-2165-6209-511f-fee7c9cc6915/mzaf_2514509830599621141.plus.aac.p.m4a", 
+            "name": "Life Goes On", 
+            "number": 14
+        }, 
+        {
+            "duration": "05:14", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music7/v4/af/b2/e9/afb2e986-5b12-3dbe-ea1c-ce81b086f899/mzaf_2515800205821003465.plus.aac.p.m4a", 
+            "name": "Stand", 
+            "number": 15
+        }, 
+        {
+            "duration": "04:22", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music7/v4/1d/45/08/1d4508e7-337a-ad07-59e3-e02e5c1b040b/mzaf_5427675725983131448.plus.aac.p.m4a", 
+            "name": "The Last Song", 
+            "number": 16
+        }, 
+        {
+            "duration": "04:37", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music1/v4/c3/b9/ca/c3b9ca5b-a1f0-2bf7-2387-672957c27a0b/mzaf_8448684574538790569.plus.aac.p.m4a", 
+            "name": "Shooting Star", 
+            "number": 17
+        }, 
+        {
+            "duration": "03:10", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music7/v4/04/d1/ea/04d1ea97-3eb0-655d-75c2-ab1818aa4869/mzaf_2997644785867867305.plus.aac.p.m4a", 
+            "name": "We're an American Band", 
+            "number": 18
+        }
+    ], 
+    "id": 715750234
+}

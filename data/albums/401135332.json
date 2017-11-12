@@ -1,0 +1,21 @@
+{
+    "genres": [
+        "Pop"
+    ], 
+    "name": "The Big Bang - Single", 
+    "artist": {
+        "id": 367483402, 
+        "name": "Rock Mafia"
+    }, 
+    "release_date": "2010-10-29T07:00:00Z", 
+    "thumbnail": "http://is2.mzstatic.com/image/thumb/Music/v4/13/e7/25/13e725ae-ec5b-139e-be49-e86ac1919fe5/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "02:40", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/86/75/19/8675191d-d48c-577c-121b-2f8a19a56c70/mzaf_1405586322006814962.plus.aac.p.m4a", 
+            "name": "The Big Bang", 
+            "number": 1
+        }
+    ], 
+    "id": 401135332
+}

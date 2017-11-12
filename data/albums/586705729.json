@@ -1,0 +1,99 @@
+{
+    "genres": [
+        "Rock"
+    ], 
+    "name": "Cocky", 
+    "artist": {
+        "id": 252399, 
+        "name": "Kid Rock"
+    }, 
+    "release_date": "2001-11-19T08:00:00Z", 
+    "thumbnail": "http://is5.mzstatic.com/image/thumb/Music/v4/87/06/3e/87063eb0-05cc-25d1-3b5c-21b4e09f6c16/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "04:39", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/71/74/e2/7174e213-c6c2-f0fb-9a90-817e1e9554bf/mzaf_1156941692381894308.plus.aac.p.m4a", 
+            "name": "Trucker Anthem", 
+            "number": 1
+        }, 
+        {
+            "duration": "03:46", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/3b/d7/c5/3bd7c574-966b-64de-d6c1-c568a3e1e4f4/mzaf_2281966053463861163.plus.aac.p.m4a", 
+            "name": "Forever", 
+            "number": 2
+        }, 
+        {
+            "duration": "04:55", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/4f/cc/fc/4fccfce5-ac00-cb12-a0f4-53c9ff9a5358/mzaf_1908220478119242609.plus.aac.p.m4a", 
+            "name": "Lay It On Me", 
+            "number": 3
+        }, 
+        {
+            "duration": "03:57", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/45/2c/84/452c84ff-67ac-4e8f-a3df-a8b7dd855c71/mzaf_6567363115215223346.plus.aac.p.m4a", 
+            "name": "Cocky", 
+            "number": 4
+        }, 
+        {
+            "duration": "04:58", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/ae/cc/16/aecc163a-ef46-8825-27f3-b9dfa9c8fa29/mzaf_3760587950224980764.plus.aac.p.m4a", 
+            "name": "What I Learned Out On the Road", 
+            "number": 5
+        }, 
+        {
+            "duration": "04:56", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/25/fa/8e/25fa8e05-4ab4-3318-b3c7-e85c2fb3f4a2/mzaf_68048405020748956.plus.aac.p.m4a", 
+            "name": "I'm Wrong, But You Ain't Right", 
+            "number": 6
+        }, 
+        {
+            "duration": "05:28", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/9d/6f/01/9d6f017c-a778-a0f7-4fb0-6f5b4cf67390/mzaf_3283182866949595257.plus.aac.p.m4a", 
+            "name": "Lonely Road of Faith", 
+            "number": 7
+        }, 
+        {
+            "duration": "04:53", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/99/73/8c/99738cac-3d43-f4c4-b8ef-5f90d0327016/mzaf_8215183280221619824.plus.aac.p.m4a", 
+            "name": "You Never Met a Motherf**ker Quite Like Me", 
+            "number": 8
+        }, 
+        {
+            "duration": "04:58", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/ad/e0/cf/ade0cf63-b59c-ceda-f0f8-4675adc0a506/mzaf_3983529259731765114.plus.aac.p.m4a", 
+            "name": "Picture (feat. Sheryl Crow)", 
+            "number": 9
+        }, 
+        {
+            "duration": "03:36", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/c2/0c/1f/c20c1f60-05de-0d93-5d0b-7d5e29e6fe34/mzaf_956841162962502890.plus.aac.p.m4a", 
+            "name": "I'm a Dog", 
+            "number": 10
+        }, 
+        {
+            "duration": "04:43", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/64/56/81/645681d6-a3e2-01a3-73b5-0f60d2685f79/mzaf_4456066587425853071.plus.aac.p.m4a", 
+            "name": "Midnight Train to Memphis", 
+            "number": 11
+        }, 
+        {
+            "duration": "03:07", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/9b/f4/f1/9bf4f153-d6cd-4fc8-6395-705ea9f95b91/mzaf_3408052390124402724.plus.aac.p.m4a", 
+            "name": "Baby Come Home", 
+            "number": 12
+        }, 
+        {
+            "duration": "05:30", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/b2/3b/eb/b23bebca-4baa-9217-4f2e-ee278ebf2ba8/mzaf_7197973008441290437.plus.aac.p.m4a", 
+            "name": "Drunk In the Morning", 
+            "number": 13
+        }, 
+        {
+            "duration": "04:44", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/fe/90/d6/fe90d6fd-0207-03af-8521-9df049d46f90/mzaf_8795809541719905978.plus.aac.p.m4a", 
+            "name": "WCSR (feat. Snoop Dogg)", 
+            "number": 14
+        }
+    ], 
+    "id": 586705729
+}

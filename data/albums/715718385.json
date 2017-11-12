@@ -1,0 +1,165 @@
+{
+    "genres": [
+        "Rock"
+    ], 
+    "name": "Classic Rock", 
+    "artist": {
+        "id": 4035426, 
+        "name": "Various Artists"
+    }, 
+    "release_date": "2008-02-05T08:00:00Z", 
+    "thumbnail": "http://is1.mzstatic.com/image/thumb/Music4/v4/fe/8c/6a/fe8c6acc-990e-3e2e-143e-e9591c1c6685/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "04:51", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/c3/34/f6/c334f699-9996-bc92-dc05-42bd6a9e6747/mzaf_7392260373782050237.plus.aac.p.m4a", 
+            "name": "Bad to the Bone", 
+            "number": 1
+        }, 
+        {
+            "duration": "04:12", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/49/1e/b7/491eb732-aa93-b89c-baf1-200def47a62f/mzaf_8978382960726435965.plus.aac.p.m4a", 
+            "name": "White Wedding, Pt. 1", 
+            "number": 2
+        }, 
+        {
+            "duration": "04:42", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/04/11/ad/0411adbd-f0ab-f576-606c-d4e47b77611d/mzaf_8839282476696935228.plus.aac.p.m4a", 
+            "name": "Lonely Is the Night", 
+            "number": 3
+        }, 
+        {
+            "duration": "04:24", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/fd/40/df/fd40df58-c8bb-64be-f8ad-662cfead679e/mzaf_3663360216772595634.plus.aac.p.m4a", 
+            "name": "Lunatic Fringe", 
+            "number": 4
+        }, 
+        {
+            "duration": "03:37", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/aa/43/f7/aa43f74d-269e-f5e4-d7a8-c1ff0cfa8d36/mzaf_1917096293852813419.plus.aac.p.m4a", 
+            "name": "The Stroke", 
+            "number": 5
+        }, 
+        {
+            "duration": "04:17", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/82/83/bb/8283bb44-bd7a-e104-e766-892768eb0354/mzaf_6306519687448131155.plus.aac.p.m4a", 
+            "name": "Fame", 
+            "number": 6
+        }, 
+        {
+            "duration": "03:37", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/18/ff/10/18ff10c6-7291-ee9c-8cc1-eaee45e8ee6e/mzaf_9151875641819133653.plus.aac.p.m4a", 
+            "name": "Centerfold", 
+            "number": 7
+        }, 
+        {
+            "duration": "03:22", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/be/0f/4d/be0f4d0a-7fa5-1383-38ac-f4cb61c9fd94/mzaf_7115858840907942099.plus.aac.p.m4a", 
+            "name": "Some Kind of Wonderful", 
+            "number": 8
+        }, 
+        {
+            "duration": "02:51", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/a3/81/bf/a381bf1b-286e-0f61-2911-c89eedbbbf1a/mzaf_461649460492702316.plus.aac.p.m4a", 
+            "name": "Hit Me with Your Best Shot", 
+            "number": 9
+        }, 
+        {
+            "duration": "04:46", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/3c/0a/f4/3c0af4da-c953-7510-3017-c04f70ec016a/mzaf_2956371422834471739.plus.aac.p.m4a", 
+            "name": "Rebel Yell", 
+            "number": 10
+        }, 
+        {
+            "duration": "03:26", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/b6/11/cb/b611cb9a-f455-3b58-2e51-a9d4ab457f80/mzaf_6804556072956939715.plus.aac.p.m4a", 
+            "name": "We're an American Band", 
+            "number": 11
+        }, 
+        {
+            "duration": "04:32", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/db/e4/9c/dbe49c0a-f42c-2dfa-a474-60adcbc04f84/mzaf_7530887778830300399.plus.aac.p.m4a", 
+            "name": "I Drink Alone", 
+            "number": 12
+        }, 
+        {
+            "duration": "03:28", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/df/1c/a5/df1ca573-6173-6b72-b888-444d012aaaf5/mzaf_7946224585380369541.plus.aac.p.m4a", 
+            "name": "Heartbreaker", 
+            "number": 13
+        }, 
+        {
+            "duration": "03:35", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/ac/0e/86/ac0e86a8-d6be-52bb-21f3-4a8519eb4109/mzaf_3533012504983656044.plus.aac.p.m4a", 
+            "name": "Changes", 
+            "number": 14
+        }, 
+        {
+            "duration": "03:44", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/b9/6a/1a/b96a1a03-e481-b49d-10d9-af3c49c1924f/mzaf_3212440622906804500.plus.aac.p.m4a", 
+            "name": "I'd Love to Change the World", 
+            "number": 15
+        }, 
+        {
+            "duration": "04:21", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/52/e7/cf/52e7cff0-0beb-f702-32da-a4af442423d1/mzaf_4998298568167807816.plus.aac.p.m4a", 
+            "name": "Every Rose Has Its Thorn", 
+            "number": 16
+        }, 
+        {
+            "duration": "05:22", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/31/38/60/31386072-a3fb-0ac3-7727-da3076c3cc29/mzaf_6963686308609946452.plus.aac.p.m4a", 
+            "name": "Once Bitten, Twice Shy", 
+            "number": 17
+        }, 
+        {
+            "duration": "04:03", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/d0/20/35/d02035a7-36ce-1027-587d-7129b4b355dd/mzaf_8695162945633235946.plus.aac.p.m4a", 
+            "name": "Ballroom Blitz", 
+            "number": 18
+        }, 
+        {
+            "duration": "03:00", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/a9/a7/7f/a9a77fea-36eb-c23f-d0a3-adc57fee2069/mzaf_6175841345192853297.plus.aac.p.m4a", 
+            "name": "Gimme Some Lovin'", 
+            "number": 19
+        }, 
+        {
+            "duration": "04:35", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/d6/cc/00/d6cc001e-0fd9-ac84-91df-e2479dbadf2b/mzaf_7798284127744049704.plus.aac.p.m4a", 
+            "name": "The Weight", 
+            "number": 20
+        }, 
+        {
+            "duration": "03:44", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/10/95/4f/10954fdb-0294-b3b1-8949-9dc163f886f3/mzaf_5592939094096607299.plus.aac.p.m4a", 
+            "name": "Love Stinks", 
+            "number": 21
+        }, 
+        {
+            "duration": "04:55", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/54/b8/f8/54b8f838-6c0e-0eed-2fd4-78d6f701a8fb/mzaf_1890334759764932464.plus.aac.p.m4a", 
+            "name": "My Sharona", 
+            "number": 22
+        }, 
+        {
+            "duration": "05:00", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/50/96/ab/5096abb8-46c5-cc4c-a137-00e1a056d791/mzaf_5115732080265825621.plus.aac.p.m4a", 
+            "name": "On the Road Again", 
+            "number": 23
+        }, 
+        {
+            "duration": "04:59", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/c8/40/2b/c8402bf1-b23d-1d44-25ce-a8e596f8f29a/mzaf_6736537213997900246.plus.aac.p.m4a", 
+            "name": "Proud Mary", 
+            "number": 24
+        }, 
+        {
+            "duration": "05:17", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/16/60/df/1660df79-ba7b-ca2d-ddc3-d1568a35669f/mzaf_1156989040772815051.plus.aac.p.m4a", 
+            "name": "With a Little Help from My Friends (Live) [Edit]", 
+            "number": 25
+        }
+    ], 
+    "id": 715718385
+}

@@ -1,0 +1,75 @@
+{
+    "genres": [
+        "Rock"
+    ], 
+    "name": "For Those About to Rock (We Salute You)", 
+    "artist": {
+        "id": 5040714, 
+        "name": "AC/DC"
+    }, 
+    "release_date": "2012-11-19T08:00:00Z", 
+    "thumbnail": "http://is4.mzstatic.com/image/thumb/Music6/v4/1f/ab/27/1fab2727-5646-7219-b3df-68e49d7ada60/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "05:44", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/a6/01/b6/a601b601-c045-8d0b-d825-ee6ef4703bd6/mzaf_5572051865108505931.plus.aac.p.m4a", 
+            "name": "For Those About to Rock (We Salute You)", 
+            "number": 1
+        }, 
+        {
+            "duration": "03:26", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/00/67/dc/0067dc70-7bdf-0afb-ac4a-c4278521dd49/mzaf_5676292307654747704.plus.aac.p.m4a", 
+            "name": "I Put the Finger On You", 
+            "number": 2
+        }, 
+        {
+            "duration": "03:54", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/ab/b1/2a/abb12a0b-2b88-92fe-ac90-a23e2936a1df/mzaf_3991936392124072736.plus.aac.p.m4a", 
+            "name": "Let's Get It Up", 
+            "number": 3
+        }, 
+        {
+            "duration": "03:31", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/72/93/6f/72936faa-d5fe-19f0-6289-a011ec157a94/mzaf_5467277300206667841.plus.aac.p.m4a", 
+            "name": "Inject the Venom", 
+            "number": 4
+        }, 
+        {
+            "duration": "03:23", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/a3/9a/7c/a39a7cba-46ae-6725-2531-d81287f7f830/mzaf_7809740656970995792.plus.aac.p.m4a", 
+            "name": "Snowballed", 
+            "number": 5
+        }, 
+        {
+            "duration": "04:24", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/c0/ec/f7/c0ecf7e6-ad42-8da4-d818-91ca0c6cb1e0/mzaf_3513055494464325760.plus.aac.p.m4a", 
+            "name": "Evil Walks", 
+            "number": 6
+        }, 
+        {
+            "duration": "03:20", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/34/6e/cd/346ecdf8-4e56-9ae4-7a33-a35bd817ad10/mzaf_8450862391267704920.plus.aac.p.m4a", 
+            "name": "C.O.D.", 
+            "number": 7
+        }, 
+        {
+            "duration": "04:23", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/60/2f/db/602fdbe8-84f9-3e37-138c-aff322e05ffc/mzaf_2571639110462226862.plus.aac.p.m4a", 
+            "name": "Breaking the Rules", 
+            "number": 8
+        }, 
+        {
+            "duration": "03:26", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/eb/a0/db/eba0db4a-0b37-3559-027e-10cff3e0c488/mzaf_1514076706448093651.plus.aac.p.m4a", 
+            "name": "Night of the Long Knives", 
+            "number": 9
+        }, 
+        {
+            "duration": "04:29", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/ee/e1/52/eee15228-e8af-a2dd-cbed-39f224fd08d1/mzaf_5040536684546693532.plus.aac.p.m4a", 
+            "name": "Spellbound", 
+            "number": 10
+        }
+    ], 
+    "id": 574055123
+}

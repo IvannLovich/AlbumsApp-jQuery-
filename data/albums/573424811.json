@@ -1,0 +1,99 @@
+{
+    "genres": [
+        "Rock"
+    ], 
+    "name": "Rebel Soul", 
+    "artist": {
+        "id": 252399, 
+        "name": "Kid Rock"
+    }, 
+    "release_date": "2012-11-19T08:00:00Z", 
+    "thumbnail": "http://is3.mzstatic.com/image/thumb/Music/v4/cb/c0/30/cbc030d4-7f0e-a946-15f3-19207d4e14be/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "04:49", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music1/v4/75/e8/aa/75e8aab5-c936-7837-28c9-384f0941c962/mzaf_6522484926191281158.plus.aac.p.m4a", 
+            "name": "Chickens In the Pen", 
+            "number": 1
+        }, 
+        {
+            "duration": "04:50", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music3/v4/74/d9/86/74d9866e-5b7b-de10-a7b6-b44cc456c001/mzaf_4361042918210381241.plus.aac.p.m4a", 
+            "name": "Let's Ride", 
+            "number": 2
+        }, 
+        {
+            "duration": "04:24", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music3/v4/58/5c/52/585c52f1-5c6d-f4f8-98a0-fc96db7dc27b/mzaf_7250010404381017832.plus.aac.p.m4a", 
+            "name": "3 CATT Boogie", 
+            "number": 3
+        }, 
+        {
+            "duration": "03:56", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music1/v4/18/d9/24/18d9246f-0b7b-4a76-7733-bf9c81c9636d/mzaf_7938003560083493139.plus.aac.p.m4a", 
+            "name": "Detroit, Michigan", 
+            "number": 4
+        }, 
+        {
+            "duration": "04:02", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music5/v4/c9/86/a6/c986a6f2-3ac1-7d47-a00a-8564592823d4/mzaf_3546492586710701370.plus.aac.p.m4a", 
+            "name": "Rebel Soul", 
+            "number": 5
+        }, 
+        {
+            "duration": "05:21", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music3/v4/44/d3/87/44d387b9-3540-6c69-1da1-58178b299d45/mzaf_2921989688387541768.plus.aac.p.m4a", 
+            "name": "God Save Rock 'N Roll", 
+            "number": 6
+        }, 
+        {
+            "duration": "03:34", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music1/v4/29/31/f9/2931f90a-0baf-4bb3-2c93-bc64bc55d514/mzaf_6314786480434968608.plus.aac.p.m4a", 
+            "name": "Happy New Year", 
+            "number": 7
+        }, 
+        {
+            "duration": "04:01", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music1/v4/4c/3c/c2/4c3cc232-546d-6a50-15ef-34f35a5c51a3/mzaf_3318056684610769280.plus.aac.p.m4a", 
+            "name": "Celebrate", 
+            "number": 8
+        }, 
+        {
+            "duration": "04:46", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music1/v4/73/52/c2/7352c241-53fb-1e3a-ab20-36bdd83a234c/mzaf_7967730508051348676.plus.aac.p.m4a", 
+            "name": "The Mirror", 
+            "number": 9
+        }, 
+        {
+            "duration": "06:37", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music5/v4/45/d0/6a/45d06aeb-5236-40da-600a-a3c3981b499e/mzaf_4011834286852457414.plus.aac.p.m4a", 
+            "name": "Mr. Rock 'N Roll", 
+            "number": 10
+        }, 
+        {
+            "duration": "04:25", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music5/v4/19/fe/92/19fe921e-a19d-ef6b-69d0-267fa29fb484/mzaf_2615070722727831441.plus.aac.p.m4a", 
+            "name": "Cucci Galore", 
+            "number": 11
+        }, 
+        {
+            "duration": "05:12", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music5/v4/9c/b9/5e/9cb95e27-53c5-723e-cd30-1953fc0becde/mzaf_2639890197207243414.plus.aac.p.m4a", 
+            "name": "Redneck Paradise", 
+            "number": 12
+        }, 
+        {
+            "duration": "04:15", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music3/v4/1e/0f/d4/1e0fd413-1f2c-b683-f49f-92d9d4f6cb98/mzaf_585144296418684048.plus.aac.p.m4a", 
+            "name": "Cocaine and Gin", 
+            "number": 13
+        }, 
+        {
+            "duration": "05:18", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music5/v4/e9/20/7c/e9207c43-7500-91ec-bbb1-a606e20496f8/mzaf_2633633617604743076.plus.aac.p.m4a", 
+            "name": "Midnight Ferry", 
+            "number": 14
+        }
+    ], 
+    "id": 573424811
+}

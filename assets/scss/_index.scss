@@ -1,0 +1,75 @@
+.search{
+    margin-top: 2rem;
+}
+
+
+
+header .form-control {
+    background-image: url('https://cdn1.iconfinder.com/data/icons/hawcons/32/698627-icon-111-search-128.png');
+    background-size: 25px;
+    background-position: 10px 12px; 
+    background-repeat: no-repeat; 
+    width: 100%; 
+    font-size: 16px; 
+    padding: 12px 20px 12px 40px; 
+    border: 1px solid #ddd; 
+    margin-bottom: 12px; 
+     
+}
+
+
+
+header .search .form-control{
+    margin-left: 20rem;
+    width: 70%;
+    margin: 0 auto;
+}
+
+
+
+.container{
+    margin-top: 8rem;
+}
+
+.row{
+    display: flex;
+}
+
+.row .foto{
+    width: 17%;
+    height: 17%;
+}
+
+
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.title{
+    max-width: 600px;
+    font-size: 25px;
+}
+
+.artist{
+    font-size: 18px;
+    
+}
+
+.stars{
+    flex: 1 1 100%;
+}
+
+.stars img{
+    width: 15%;
+}
+
+
+
+.gender{
+    font-weight: bold;
+    
+}

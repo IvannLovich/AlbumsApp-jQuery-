@@ -1,0 +1,87 @@
+{
+    "genres": [
+        "Soundtrack"
+    ], 
+    "name": "Camp Rock (Music from the Disney Channel Original Movie)", 
+    "artist": {
+        "id": 825559, 
+        "name": "Various Artists"
+    }, 
+    "release_date": "2008-01-01T08:00:00Z", 
+    "thumbnail": "http://is1.mzstatic.com/image/thumb/Music/v4/fd/38/69/fd38696c-6aec-db66-d48f-da67bda832cb/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "03:10", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/2a/f5/0a/mzm.qevqavwo.aac.p.m4a", 
+            "name": "We Rock", 
+            "number": 1
+        }, 
+        {
+            "duration": "03:17", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/99/a9/ed/mzm.oynigeoy.aac.p.m4a", 
+            "name": "Play My Music", 
+            "number": 2
+        }, 
+        {
+            "duration": "04:01", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/a9/a0/1d/mzm.zkxrfckn.aac.p.m4a", 
+            "name": "Gotta Find You", 
+            "number": 3
+        }, 
+        {
+            "duration": "03:00", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/fe/66/a7/mzm.vhdrkojk.aac.p.m4a", 
+            "name": "Start the Party", 
+            "number": 4
+        }, 
+        {
+            "duration": "03:06", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/f2/ea/f4/mzm.vtdktuga.aac.p.m4a", 
+            "name": "Who Will I Be", 
+            "number": 5
+        }, 
+        {
+            "duration": "03:09", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/e9/29/e2/mzm.zgqbypyu.aac.p.m4a", 
+            "name": "This Is Me", 
+            "number": 6
+        }, 
+        {
+            "duration": "02:35", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/b5/7c/6a/mzm.hllueomh.aac.p.m4a", 
+            "name": "Hasta la Vista", 
+            "number": 7
+        }, 
+        {
+            "duration": "03:44", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/ea/33/90/mzm.zqrkpvxe.aac.p.m4a", 
+            "name": "Here I Am", 
+            "number": 8
+        }, 
+        {
+            "duration": "02:49", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/fd/74/3b/mzm.vhjcqkvb.aac.p.m4a", 
+            "name": "Too Cool", 
+            "number": 9
+        }, 
+        {
+            "duration": "03:25", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/31/e8/f6/mzm.nmaslfju.aac.p.m4a", 
+            "name": "Our Time Is Here", 
+            "number": 10
+        }, 
+        {
+            "duration": "02:55", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/54/60/d0/mzm.gavccohb.aac.p.m4a", 
+            "name": "2 Stars", 
+            "number": 11
+        }, 
+        {
+            "duration": "02:41", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/9d/0f/dd/mzm.grytbuzz.aac.p.m4a", 
+            "name": "What It Takes", 
+            "number": 12
+        }
+    ], 
+    "id": 282159547
+}

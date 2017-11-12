@@ -1,0 +1,105 @@
+/*----------------------------Discs Style-------------------------------------*/
+.principal{
+    display: flex;
+    
+}
+
+.caja{
+    background: url("../img/texturas-metal-18.jpg") #211106;
+    box-shadow: 2px 2px 2px 2px;
+    width: 100%;
+    height: 300px;
+    margin: auto;
+}
+
+.principal .caja img{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    float: right;
+    top: 30px;
+    right: 30px;
+}
+
+.principal .caja .estrellas{
+    width: 8%;
+    height: auto;
+    position: absolute; 
+    float: right;
+    top: 255px;
+    right: 60px;
+}
+
+.principal .t{
+    position: absolute;
+    width: 750px;
+    bottom: 80px;
+    left: 10px;
+}
+
+
+.principal .t a{
+    font-size: 28px;
+    font-weight: bold;
+    
+}
+
+ .principal h2{
+    margin-top: 2rem;
+    width: 100%;
+}
+
+.principal h3{
+    font-size: 15px;
+    color: #fff;
+    position: absolute;
+    float: right;
+    top: 235px;
+    right: 70px;
+}
+
+
+
+
+
+
+/*----------------------------Main Style-------------------------------------*/
+
+.info{
+    width: 100%;
+    margin-top: -4rem;
+    display: flex;
+    justify-content: space-between
+}
+
+/*.info ul{
+    margin: 0 auto;
+
+
+}*/
+
+.info .nametrack{
+    
+    width: 300px;
+    text-align: center;
+    /*background-color: blue;*/
+
+}
+
+.info .tra{
+    
+    width: auto;
+   /* background-color: red;*/
+
+}
+
+.play{
+    margin-top: 2px;
+}
+
+.btn-primary{
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+}
+
+

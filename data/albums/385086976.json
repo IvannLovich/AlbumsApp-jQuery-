@@ -1,0 +1,105 @@
+{
+    "genres": [
+        "Soundtrack"
+    ], 
+    "name": "Camp Rock 2: The Final Jam (Soundtrack from the Motion Picture)", 
+    "artist": {
+        "id": 4035426, 
+        "name": "Various Artists"
+    }, 
+    "release_date": "2010-08-10T07:00:00Z", 
+    "thumbnail": "http://is5.mzstatic.com/image/thumb/Music/v4/4f/c1/a7/4fc1a79a-4951-ad0b-5066-e9b8e85a8baa/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "03:21", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/7f/a9/c6/mzm.brcrkkoy.aac.p.m4a", 
+            "name": "Brand New Day", 
+            "number": 1
+        }, 
+        {
+            "duration": "03:01", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/c7/7e/48/mzm.vieqmqyf.aac.p.m4a", 
+            "name": "Fire", 
+            "number": 2
+        }, 
+        {
+            "duration": "03:19", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/bb/63/4b/mzm.fehtgbmy.aac.p.m4a", 
+            "name": "Can't Back Down", 
+            "number": 3
+        }, 
+        {
+            "duration": "04:02", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/ad/a0/68/mzm.qtdkdeor.aac.p.m4a", 
+            "name": "It's On", 
+            "number": 4
+        }, 
+        {
+            "duration": "03:23", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/70/17/bd/mzm.nbtrpilg.aac.p.m4a", 
+            "name": "Wouldn't Change a Thing", 
+            "number": 5
+        }, 
+        {
+            "duration": "02:57", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/8d/e7/58/mzm.msrxvdsk.aac.p.m4a", 
+            "name": "Heart and Soul", 
+            "number": 6
+        }, 
+        {
+            "duration": "02:15", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/5a/49/52/mzm.ajlxxzfi.aac.p.m4a", 
+            "name": "You're My Favorite Song", 
+            "number": 7
+        }, 
+        {
+            "duration": "03:06", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/df/85/1a/mzm.nyiqrdqk.aac.p.m4a", 
+            "name": "Introducing Me", 
+            "number": 8
+        }, 
+        {
+            "duration": "03:29", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/e5/83/16/mzm.quxjdiiv.aac.p.m4a", 
+            "name": "Tear It Down", 
+            "number": 9
+        }, 
+        {
+            "duration": "04:15", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/1c/ad/9b/mzm.oufgdpgk.aac.p.m4a", 
+            "name": "What We Came Here For", 
+            "number": 10
+        }, 
+        {
+            "duration": "02:58", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/66/51/eb/mzm.qiztqycv.aac.p.m4a", 
+            "name": "This Is Our Song", 
+            "number": 11
+        }, 
+        {
+            "duration": "03:36", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/68/36/99/mzm.gvgegzww.aac.p.m4a", 
+            "name": "Different Summers", 
+            "number": 12
+        }, 
+        {
+            "duration": "02:50", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/81/41/aa/mzm.gszwkxok.aac.p.m4a", 
+            "name": "Walkin' In My Shoes", 
+            "number": 13
+        }, 
+        {
+            "duration": "03:32", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/e2/f0/65/mzm.qovrjstl.aac.p.m4a", 
+            "name": "It's Not Too Late", 
+            "number": 14
+        }, 
+        {
+            "duration": "02:58", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/b0/3a/18/mzm.avuiqvok.aac.p.m4a", 
+            "name": "Rock Hard or Go Home", 
+            "number": 15
+        }
+    ], 
+    "id": 385086976
+}

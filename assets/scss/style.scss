@@ -1,0 +1,151 @@
+@import 'index';
+@import 'disc';
+
+/*------- MEDIAS QUERIES -------*/
+
+@media (max-width: 1188px) and (min-width: 1024px){
+    
+    .row .foto{
+        width: 40%;
+    }
+
+}
+
+
+@media (max-width: 700px){
+    
+    .principal .t{
+        width: auto;
+        display: block;
+        margin: auto;
+        position: relative;
+        float: none;
+        margin-top: 45px;
+        left: 0;
+         
+    }
+    
+    .principal h2{
+        text-align: center;
+        margin-top: auto;
+    }
+    
+    
+    
+    .principal h3{
+        width: 100%;
+        text-align: center;
+        top: 235px;
+        float: none;
+        right: 0;
+    }
+    
+    
+    
+   .principal .t a{
+        font-size: 12px; 
+    
+    }
+    
+    
+    .principal .caja img {
+       float: none; 
+       top: 30px;
+       right: 0;
+       margin-top: 34px;
+       display: block;
+       margin: auto;
+   }
+    
+    
+    .principal .caja .estrellas{
+        margin: auto;
+        position: relative;
+        display: block;
+        margin-top: -200px;
+        float: none;
+        right: 0;
+        
+    }
+    
+    
+    
+}
+
+
+
+
+@media (max-width: 1024px){
+    
+    .row .foto{
+        width: 100%;
+    }
+    
+    .title{
+        font-size: 50px;
+    }
+    
+    .artist{
+       font-size: 40px; 
+    }
+    
+    .gender{
+        font-size: 30px;
+    }
+    
+    .stars img{
+        width: 25%;
+    }
+ 
+}
+
+@media (max-width: 1415px){
+    
+    .play li .audios{
+        width: 15px;
+        margin-right: 50px;
+    }
+    
+    .info .nametrack{
+        width: 30px;
+    }
+    
+    .info .tra{
+        width: auto;
+    }
+ 
+}
+
+@media (max-width: 1945px){
+    
+ 
+    .principal .t{
+        width: auto;
+
+
+    }
+  
+    .principal h2{
+        font-size: larger;
+    }
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

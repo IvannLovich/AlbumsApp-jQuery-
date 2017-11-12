@@ -1,0 +1,93 @@
+{
+    "genres": [
+        "Country"
+    ], 
+    "name": "On the Rocks", 
+    "artist": {
+        "id": 1171869852, 
+        "name": "Midland"
+    }, 
+    "release_date": "2017-09-22T07:00:00Z", 
+    "thumbnail": "http://is5.mzstatic.com/image/thumb/Music118/v4/7a/24/ca/7a24caa2-18e1-1953-99e6-52162e01d11b/source/100x100bb.jpg", 
+    "tracks": [
+        {
+            "duration": "03:50", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/b8/76/75/b8767565-4132-a038-c960-5d34e6f4d900/mzaf_5716988641234735850.plus.aac.p.m4a", 
+            "name": "Lonely for You Only", 
+            "number": 1
+        }, 
+        {
+            "duration": "03:02", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/f0/53/08/f0530821-de6c-9cf3-bfb9-e7c2fcac0b50/mzaf_1719721415077446509.plus.aac.p.m4a", 
+            "name": "Make a Little", 
+            "number": 2
+        }, 
+        {
+            "duration": "03:41", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/25/0d/cf/250dcf00-cc53-009d-adab-be47f776c0b7/mzaf_8020054517483546351.plus.aac.p.m4a", 
+            "name": "Drinkin' Problem", 
+            "number": 3
+        }, 
+        {
+            "duration": "02:39", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/9b/4f/72/9b4f7228-5157-1759-f3e7-2a65bb6737f2/mzaf_6352370118771791680.plus.aac.p.m4a", 
+            "name": "At Least You Cried", 
+            "number": 4
+        }, 
+        {
+            "duration": "03:09", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/fb/de/7a/fbde7ae9-3600-aca0-4d9c-9e9817035afe/mzaf_4470403170474837812.plus.aac.p.m4a", 
+            "name": "Burn Out", 
+            "number": 5
+        }, 
+        {
+            "duration": "04:23", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/e9/67/68/e9676801-5848-98ce-86f2-c075d5e67e01/mzaf_4736752646642499766.plus.aac.p.m4a", 
+            "name": "Out of Sight", 
+            "number": 6
+        }, 
+        {
+            "duration": "03:43", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/0b/e1/46/0be146cc-8901-c401-39e7-7b21f0575611/mzaf_8939515290710558227.plus.aac.p.m4a", 
+            "name": "More Than a Fever", 
+            "number": 7
+        }, 
+        {
+            "duration": "03:50", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/d0/7f/5e/d07f5e60-06c6-6b8f-d5ce-0326f3afb66b/mzaf_68912280708223721.plus.aac.p.m4a", 
+            "name": "Check Cashin' Country", 
+            "number": 8
+        }, 
+        {
+            "duration": "03:47", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/b1/40/20/b14020ba-5965-ccd3-23d3-5c6d4aa8d7c6/mzaf_7640542159715323634.plus.aac.p.m4a", 
+            "name": "Nothin' New Under the Neon", 
+            "number": 9
+        }, 
+        {
+            "duration": "03:14", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/e8/7d/03/e87d03df-3fcb-ea14-b304-239152daf1dd/mzaf_1558795359340217341.plus.aac.p.m4a", 
+            "name": "This Old Heart", 
+            "number": 10
+        }, 
+        {
+            "duration": "03:27", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/be/23/81/be238170-7b01-4d69-aee2-8079d4c029df/mzaf_347098645398288994.plus.aac.p.m4a", 
+            "name": "Altitude Adjustment", 
+            "number": 11
+        }, 
+        {
+            "duration": "03:20", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/93/a9/eb/93a9eb53-c53d-5054-e026-72de05df1f70/mzaf_3937677901710498347.plus.aac.p.m4a", 
+            "name": "Electric Rodeo", 
+            "number": 12
+        }, 
+        {
+            "duration": "03:18", 
+            "preview": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/e2/7e/6b/e27e6be0-7586-7760-4f94-6617217028d9/mzaf_7618474983005343219.plus.aac.p.m4a", 
+            "name": "Somewhere on the Wind", 
+            "number": 13
+        }
+    ], 
+    "id": 1272415003
+}
