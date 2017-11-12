@@ -8,7 +8,5 @@ apliqué la función hide() de la librería generando en la primer vista, que al
 de los discos, se me ocultara el diseño de esta y me colocara el diseño de la segunda vista, que previamente
 había planeado en un archivo .html aparte
 
-#Tuve el problema del "Intercambio de Recursos de Origen Cruzado" inicialmente lo resolví instalando
- una extensión del chrome, que según entiendo anula la protección de los navegadores. Más tarde 
-encontré la solución, generando un clon del index.json en la página
-https://www.json-generator.com/.
+#Tuve el problema del "Intercambio de Recursos de Origen Cruzado", lo que encontré para poder resolver
+ esto fue instalar una extensión del chrome, que según entiendo anula la protección de los navegadores.

@@ -3,7 +3,7 @@
     //---------------------------Reading albums-------------------------------------- 
    $.ajax({
         type: 'GET',
-        url: 'http://www.json-generator.com/api/json/get/cgkxjUtOsy?indent=2',
+        url: 'http://localhost:8080/api/v1/albums/',
         dataType: 'json'
     })
     .done(function (data){
