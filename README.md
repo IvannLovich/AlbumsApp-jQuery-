@@ -1,4 +1,4 @@
-﻿#Para el problema dado utilzé la librería jQuery
+﻿#Para el problema dado utilcé la librería jQuery
  
 #En el maquetación del index.html, para generar el diseño responsive implementé bootstrap, flexbox
  y medias queries
