@@ -1,1 +1,1 @@
-﻿#Frontend Skills Test with jQuery, for Devsar
+﻿#Frontend Skills Test with jQuery, for Devsar.
