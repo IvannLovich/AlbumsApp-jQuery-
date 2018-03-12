@@ -1,5 +1,4 @@
 ﻿#Frontend Skills Test  for Devsar
-###jQuery
 
 For resolve the test I used jQuery´s library. In the layout, to generate the responsive design I implemented bootstrap, flexbox and medias queries.
 
@@ -8,4 +7,4 @@ function, so that when I clicked on the first view the content was deleted and r
 second view.
 
 I also found the problem of cross-origin, which I solved by installing the Chrome´s extension
- "Allow-Control-Allow-Origin"
+"Allow-Control-Allow-Origin"
