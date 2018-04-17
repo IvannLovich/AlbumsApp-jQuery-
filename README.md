@@ -1,4 +1,4 @@
-# Frontend Skills Test  for Devsar
+## Frontend Skills Test  for Devsar
 
 For resolve the test I used jQuery´s library. In the layout, to generate the responsive design I implemented bootstrap, flexbox and medias queries.
 jQuery is not enabled to generate rendering of two views in a single page; to solve this, I used the hide()
